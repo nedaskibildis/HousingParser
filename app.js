@@ -13,7 +13,10 @@ app.get('/test', (req, res) => {
 })
 
 app.get('/scrapeHouses', async function(req, res) {
-    var JSONObj = {
+    var houseList = []
+    var houseObj = {}
+    var featuresObj = {}
+    var houseObj = {
         postDate: "",
         availibleDate: "",
         listingType: "",
@@ -22,13 +25,20 @@ app.get('/scrapeHouses', async function(req, res) {
         distanceFromUni: "",
         subletOption: "",
         rooms: "",
-        features: "",
+        features: {},
         price: ""
     };
 
+    var featuresObj = {
+        parkingIncluded: true,
+        smokingAllowed: true,
+        laundryFacilities: true,
+        petsAllowed: true
+    }
+
     const websiteResponse = await fetch("https://thecannon.ca/classifieds/housing")
     const htmlContent = await websiteResponse.text()
-    console.log(htmlContent)
+    // console.log(htmlContent)
 
 
     const $ = cheerio.load(htmlContent)
@@ -36,48 +46,71 @@ app.get('/scrapeHouses', async function(req, res) {
 
     $('td').each((i, element) => {
         const item = $(element).html()
-        // const summary = $(element).find('div.summary').text()
-        // const summary = item.children('div[class=summary]')
-
-        console.log(item)
-        // console.log(summary)
+        // console.log(item)
 
         // this is a really lazy way to do it, i know
         if (count == 0) {
-            JSONObj.postDate = item
+            houseObj["postDate"] = item
         } else if (count == 1) {
-            JSONObj.availibleDate = item
+            houseObj["availibleDate"] = item
         } else if (count == 2) {
-            JSONObj.listingType = item
+            houseObj["listingType"] = item
         } else if (count == 3) {
-            JSONObj.houseType = item
+            houseObj["houseType"] = item
         } else if (count == 4) {
-            // need to fix this later, need to parse the adress out from the <a> tags
-            JSONObj.address = item
+            const address = $(element).find('a').text()
+            houseObj["address"] = address
         } else if (count == 5) {
-            JSONObj.distanceFromUni = item
+            houseObj["distanceFromUni"] = item
         } else if (count == 6) {
-            JSONObj.subletOption = item
+            houseObj["subletOption"] = item
         } else if (count == 7) {
-            JSONObj.rooms = item
+            houseObj["rooms"] = item
         } else if (count == 8) {
-            // need to fix this later, need to parse data out from html tags
-            JSONObj.features = item
+            if (item.includes("Parking Included")) {
+                featuresObj["parkingIncluded"] = true
+            } else {
+                featuresObj["parkingIncluded"] = false
+            }
+
+            if (item.includes("No Smoking")) {
+                featuresObj["smokingAllowed"] = false
+            } else {
+                featuresObj["smokingAllowed"] = true
+            }
+
+            if (item.includes("Laundry Facilities")) {
+                featuresObj["laundryFacilities"] = true
+            } else {
+                featuresObj["laundryFacilities"] = false
+            }
+
+            if (item.includes("Pets OK")) {
+                featuresObj["petsAllowed"] = true
+            } else {
+                featuresObj["petsAllowed"] = false
+            }
+
+            houseObj["features"] = featuresObj
         } else if (count == 9) {
-            JSONObj.price = item
+            houseObj["price"] = item
         }
 
-        console.log("--------------------------------")
         if (count == 9) {
             count = 0
+            console.log("--------------------- item pushed -----------------------")
+            console.log(houseObj)
+            houseList.push(houseObj)
+            houseObj = {}
+            featuresObj = {}
+
+            // console.log(houseList)
         } else {
             count++
         }
     })
 
-    res.status(200).json(JSONObj)
-
-    // res.status(200).json(JSONObj)
+    res.status(200).json(houseList)
 })
 
 app.listen(8080, () => {
