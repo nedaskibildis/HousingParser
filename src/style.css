@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url(/HousingParser/images/Animated\ Shape\ \(1\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
