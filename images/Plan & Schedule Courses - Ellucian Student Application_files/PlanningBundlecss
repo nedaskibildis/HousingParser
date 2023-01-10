@@ -1,0 +1,5518 @@
+/* Minification failed. Returning unminified contents.
+(88,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-border-color'
+(235,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-text-color'
+(237,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-bg-color'
+(239,22): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-border-color'
+(244,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-text-color'
+(246,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-hover-bg-color'
+(248,22): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-hover-border-color'
+(254,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-text-color'
+(256,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-bg-color'
+(258,22): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-border-color'
+(269,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-text-color'
+(271,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-active-bg-color'
+(273,22): run-time error CSS1039: Token not allowed after unary operator: '-fc-button-active-border-color'
+(405,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-border-color'
+(477,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-page-bg-color'
+(544,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-non-business-color'
+(549,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-bg-event-color'
+(551,17): run-time error CSS1039: Token not allowed after unary operator: '-fc-bg-event-opacity'
+(557,19): run-time error CSS1039: Token not allowed after unary operator: '-fc-small-font-size'
+(563,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-highlight-color'
+(569,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-neutral-bg-color'
+(624,28): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(626,22): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-border-width'
+(628,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(630,16): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(634,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-page-bg-color'
+(673,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-selected-overlay-color'
+(692,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-border-color'
+(694,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-bg-color'
+(699,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-text-color'
+(761,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-thickness'
+(768,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-thickness'
+(775,27): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-thickness'
+(782,32): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(788,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(794,27): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(823,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-border-color'
+(825,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-page-bg-color'
+(830,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-neutral-bg-color'
+(834,3): run-time error CSS1062: Expected semicolon or closing curly-brace, found '-'
+(865,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-today-bg-color'
+(1017,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-neutral-bg-color'
+(1019,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-neutral-text-color'
+(1064,19): run-time error CSS1039: Token not allowed after unary operator: '-fc-small-font-size'
+(1111,21): run-time error CSS1039: Token not allowed after unary operator: '-fc-daygrid-event-dot-width'
+(1111,71): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-border-color'
+(1113,28): run-time error CSS1039: Token not allowed after unary operator: '-fc-daygrid-event-dot-width'
+(1132,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-border-color'
+(1134,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-bg-color'
+(1139,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-text-color'
+(1209,16): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-thickness'
+(1216,18): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-thickness'
+(1221,21): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-thickness'
+(1231,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(1236,18): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(1241,21): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-resizer-dot-total-width'
+(1358,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-today-bg-color'
+(1475,36): run-time error CSS1039: Token not allowed after unary operator: '-fc-page-bg-color'
+(1482,19): run-time error CSS1039: Token not allowed after unary operator: '-fc-small-font-size'
+(1498,19): run-time error CSS1039: Token not allowed after unary operator: '-fc-small-font-size'
+(1514,19): run-time error CSS1039: Token not allowed after unary operator: '-fc-small-font-size'
+(1523,15): run-time error CSS1039: Token not allowed after unary operator: '-fc-more-link-text-color'
+(1525,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-more-link-bg-color'
+(1556,22): run-time error CSS1039: Token not allowed after unary operator: '-fc-now-indicator-color'
+(1571,22): run-time error CSS1039: Token not allowed after unary operator: '-fc-now-indicator-color'
+(1591,3): run-time error CSS1062: Expected semicolon or closing curly-brace, found '-'
+(1592,3): run-time error CSS1062: Expected semicolon or closing curly-brace, found '-'
+(1597,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-border-color'
+(1606,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-neutral-bg-color'
+(1639,20): run-time error CSS1039: Token not allowed after unary operator: '-fc-page-bg-color'
+(1684,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-neutral-bg-color'
+(1713,26): run-time error CSS1039: Token not allowed after unary operator: '-fc-list-event-hover-bg-color'
+(1732,21): run-time error CSS1039: Token not allowed after unary operator: '-fc-list-event-dot-width'
+(1732,69): run-time error CSS1039: Token not allowed after unary operator: '-fc-event-border-color'
+(1734,28): run-time error CSS1039: Token not allowed after unary operator: '-fc-list-event-dot-width'
+(1768,26): run-time error CSS1039: Token not allowed after unary operator: '-bs-gray-400'
+(1781,26): run-time error CSS1039: Token not allowed after unary operator: '-bs-gray-200'
+ */
+@charset "UTF-8";
+/* Copyright 2012-2022 Ellucian Company L.P. and its affiliates. */
+/* ----------------------------------------------------------- */
+/* //////////  Course Catalog: Search Bar         ///////////  */
+/* ----------------------------------------------------------- */
+/* Copyright 2019-2021 Ellucian Company L.P. and its affiliates. */
+/* ----------------------------------------------------------- */
+/* //////////   Schedule & Timeline Tabs           //////////  */
+/* ----------------------------------------------------------- */
+/* Copied from EDS for use in Self-Service .scss files */
+/* Non-color variables will be placed here */
+/* Non-color variables will be placed here */
+/* Color variables */
+/*
+ * FullCalendar v5.10.2 Stylesheet
+ */
+/* Color variables */
+/* classes attached to <body> */
+/* TODO: make fc-event selector work when calender in shadow DOM */
+.fc-not-allowed,
+.fc-not-allowed .fc-event {
+  /* override events' custom cursors */
+  cursor: not-allowed;
+}
+
+/* TODO: not attached to body. attached to specific els. move */
+.fc-unselectable {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.fc {
+  /* layout of immediate children */
+  display: flex;
+  flex-direction: column;
+  font-size: 1em;
+}
+
+.fc,
+.fc *,
+.fc *:before,
+.fc *:after {
+  box-sizing: border-box;
+}
+
+.fc table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 1em;
+  /* normalize cross-browser */
+}
+
+.fc th {
+  text-align: center;
+}
+
+.fc th,
+.fc td {
+  vertical-align: top;
+  padding: 0;
+}
+
+.fc a[data-navlink] {
+  cursor: pointer;
+}
+
+.fc a[data-navlink]:hover {
+  text-decoration: underline;
+}
+
+.fc-direction-ltr {
+  direction: ltr;
+  text-align: left;
+}
+
+.fc-direction-rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.fc-theme-standard td,
+.fc-theme-standard th {
+  border: 1px solid #ddd;
+  border: 1px solid var(--fc-border-color, #ddd);
+}
+
+/* for FF, which doesn't expand a 100% div within a table cell. use absolute positioning */
+/* inner-wrappers are responsible for being absolute */
+/* TODO: best place for this? */
+.fc-liquid-hack td,
+.fc-liquid-hack th {
+  position: relative;
+}
+
+@font-face {
+  font-family: 'fcicons';
+  src: url("data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SBfAAAAC8AAAAYGNtYXAXVtKNAAABHAAAAFRnYXNwAAAAEAAAAXAAAAAIZ2x5ZgYydxIAAAF4AAAFNGhlYWQUJ7cIAAAGrAAAADZoaGVhB20DzAAABuQAAAAkaG10eCIABhQAAAcIAAAALGxvY2ED4AU6AAAHNAAAABhtYXhwAA8AjAAAB0wAAAAgbmFtZXsr690AAAdsAAABhnBvc3QAAwAAAAAI9AAAACAAAwPAAZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADpBgPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAOAAAAAoACAACAAIAAQAg6Qb//f//AAAAAAAg6QD//f//AAH/4xcEAAMAAQAAAAAAAAAAAAAAAQAB//8ADwABAAAAAAAAAAAAAgAANzkBAAAAAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAWIAjQKeAskAEwAAJSc3NjQnJiIHAQYUFwEWMjc2NCcCnuLiDQ0MJAz/AA0NAQAMJAwNDcni4gwjDQwM/wANIwz/AA0NDCMNAAAAAQFiAI0CngLJABMAACUBNjQnASYiBwYUHwEHBhQXFjI3AZ4BAA0N/wAMJAwNDeLiDQ0MJAyNAQAMIw0BAAwMDSMM4uINIwwNDQAAAAIA4gC3Ax4CngATACcAACUnNzY0JyYiDwEGFB8BFjI3NjQnISc3NjQnJiIPAQYUHwEWMjc2NCcB87e3DQ0MIw3VDQ3VDSMMDQ0BK7e3DQ0MJAzVDQ3VDCQMDQ3zuLcMJAwNDdUNIwzWDAwNIwy4twwkDA0N1Q0jDNYMDA0jDAAAAgDiALcDHgKeABMAJwAAJTc2NC8BJiIHBhQfAQcGFBcWMjchNzY0LwEmIgcGFB8BBwYUFxYyNwJJ1Q0N1Q0jDA0Nt7cNDQwjDf7V1Q0N1QwkDA0Nt7cNDQwkDLfWDCMN1Q0NDCQMt7gMIw0MDNYMIw3VDQ0MJAy3uAwjDQwMAAADAFUAAAOrA1UAMwBoAHcAABMiBgcOAQcOAQcOARURFBYXHgEXHgEXHgEzITI2Nz4BNz4BNz4BNRE0JicuAScuAScuASMFITIWFx4BFx4BFx4BFREUBgcOAQcOAQcOASMhIiYnLgEnLgEnLgE1ETQ2Nz4BNz4BNz4BMxMhMjY1NCYjISIGFRQWM9UNGAwLFQkJDgUFBQUFBQ4JCRULDBgNAlYNGAwLFQkJDgUFBQUFBQ4JCRULDBgN/aoCVgQIBAQHAwMFAQIBAQIBBQMDBwQECAT9qgQIBAQHAwMFAQIBAQIBBQMDBwQECASAAVYRGRkR/qoRGRkRA1UFBAUOCQkVDAsZDf2rDRkLDBUJCA4FBQUFBQUOCQgVDAsZDQJVDRkLDBUJCQ4FBAVVAgECBQMCBwQECAX9qwQJAwQHAwMFAQICAgIBBQMDBwQDCQQCVQUIBAQHAgMFAgEC/oAZEhEZGRESGQAAAAADAFUAAAOrA1UAMwBoAIkAABMiBgcOAQcOAQcOARURFBYXHgEXHgEXHgEzITI2Nz4BNz4BNz4BNRE0JicuAScuAScuASMFITIWFx4BFx4BFx4BFREUBgcOAQcOAQcOASMhIiYnLgEnLgEnLgE1ETQ2Nz4BNz4BNz4BMxMzFRQWMzI2PQEzMjY1NCYrATU0JiMiBh0BIyIGFRQWM9UNGAwLFQkJDgUFBQUFBQ4JCRULDBgNAlYNGAwLFQkJDgUFBQUFBQ4JCRULDBgN/aoCVgQIBAQHAwMFAQIBAQIBBQMDBwQECAT9qgQIBAQHAwMFAQIBAQIBBQMDBwQECASAgBkSEhmAERkZEYAZEhIZgBEZGREDVQUEBQ4JCRUMCxkN/asNGQsMFQkIDgUFBQUFBQ4JCBUMCxkNAlUNGQsMFQkJDgUEBVUCAQIFAwIHBAQIBf2rBAkDBAcDAwUBAgICAgEFAwMHBAMJBAJVBQgEBAcCAwUCAQL+gIASGRkSgBkSERmAEhkZEoAZERIZAAABAOIAjQMeAskAIAAAExcHBhQXFjI/ARcWMjc2NC8BNzY0JyYiDwEnJiIHBhQX4uLiDQ0MJAzi4gwkDA0N4uINDQwkDOLiDCQMDQ0CjeLiDSMMDQ3h4Q0NDCMN4uIMIw0MDOLiDAwNIwwAAAABAAAAAQAAa5n0y18PPPUACwQAAAAAANivOVsAAAAA2K85WwAAAAADqwNVAAAACAACAAAAAAAAAAEAAAPA/8AAAAQAAAAAAAOrAAEAAAAAAAAAAAAAAAAAAAALBAAAAAAAAAAAAAAAAgAAAAQAAWIEAAFiBAAA4gQAAOIEAABVBAAAVQQAAOIAAAAAAAoAFAAeAEQAagCqAOoBngJkApoAAQAAAAsAigADAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA4ArgABAAAAAAABAAcAAAABAAAAAAACAAcAYAABAAAAAAADAAcANgABAAAAAAAEAAcAdQABAAAAAAAFAAsAFQABAAAAAAAGAAcASwABAAAAAAAKABoAigADAAEECQABAA4ABwADAAEECQACAA4AZwADAAEECQADAA4APQADAAEECQAEAA4AfAADAAEECQAFABYAIAADAAEECQAGAA4AUgADAAEECQAKADQApGZjaWNvbnMAZgBjAGkAYwBvAG4Ac1ZlcnNpb24gMS4wAFYAZQByAHMAaQBvAG4AIAAxAC4AMGZjaWNvbnMAZgBjAGkAYwBvAG4Ac2ZjaWNvbnMAZgBjAGkAYwBvAG4Ac1JlZ3VsYXIAUgBlAGcAdQBsAGEAcmZjaWNvbnMAZgBjAGkAYwBvAG4Ac0ZvbnQgZ2VuZXJhdGVkIGJ5IEljb01vb24uAEYAbwBuAHQAIABnAGUAbgBlAHIAYQB0AGUAZAAgAGIAeQAgAEkAYwBvAE0AbwBvAG4ALgAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fc-icon {
+  /* added for fc */
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fcicons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fc-icon-chevron-left:before {
+  content: "\e900";
+}
+
+.fc-icon-chevron-right:before {
+  content: "\e901";
+}
+
+.fc-icon-chevrons-left:before {
+  content: "\e902";
+}
+
+.fc-icon-chevrons-right:before {
+  content: "\e903";
+}
+
+.fc-icon-minus-square:before {
+  content: "\e904";
+}
+
+.fc-icon-plus-square:before {
+  content: "\e905";
+}
+
+.fc-icon-x:before {
+  content: "\e906";
+}
+
+/*
+Lots taken from Flatly (MIT): https://bootswatch.com/4/flatly/bootstrap.css
+
+These styles only apply when the standard-theme is activated.
+When it's NOT activated, the fc-button classes won't even be in the DOM.
+*/
+.fc {
+  /* reset */
+}
+
+.fc .fc-button {
+  border-radius: 0;
+  overflow: visible;
+  text-transform: none;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.fc .fc-button:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+}
+
+.fc .fc-button {
+  -webkit-appearance: button;
+}
+
+.fc .fc-button:not(:disabled) {
+  cursor: pointer;
+}
+
+.fc .fc-button::-moz-focus-inner {
+  padding: 0;
+  border-style: none;
+}
+
+.fc {
+  /* theme */
+}
+
+.fc .fc-button {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.4em 0.65em;
+  font-size: 1em;
+  line-height: 1.5;
+  border-radius: 0.25em;
+}
+
+.fc .fc-button:hover {
+  text-decoration: none;
+}
+
+.fc .fc-button:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(44, 62, 80, 0.25);
+}
+
+.fc .fc-button:disabled {
+  opacity: 0.65;
+}
+
+.fc {
+  /* "primary" coloring */
+}
+
+.fc .fc-button-primary {
+  color: #fff;
+  color: var(--fc-button-text-color, #fff);
+  background-color: #2C3E50;
+  background-color: var(--fc-button-bg-color, #2C3E50);
+  border-color: #2C3E50;
+  border-color: var(--fc-button-border-color, #2C3E50);
+}
+
+.fc .fc-button-primary:hover {
+  color: #fff;
+  color: var(--fc-button-text-color, #fff);
+  background-color: #1e2b37;
+  background-color: var(--fc-button-hover-bg-color, #1e2b37);
+  border-color: #1a252f;
+  border-color: var(--fc-button-hover-border-color, #1a252f);
+}
+
+.fc .fc-button-primary:disabled {
+  /* not DRY */
+  color: #fff;
+  color: var(--fc-button-text-color, #fff);
+  background-color: #2C3E50;
+  background-color: var(--fc-button-bg-color, #2C3E50);
+  border-color: #2C3E50;
+  border-color: var(--fc-button-border-color, #2C3E50);
+  /* overrides :hover */
+}
+
+.fc .fc-button-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(76, 91, 106, 0.5);
+}
+
+.fc .fc-button-primary:not(:disabled):active,
+.fc .fc-button-primary:not(:disabled).fc-button-active {
+  color: #fff;
+  color: var(--fc-button-text-color, #fff);
+  background-color: #1a252f;
+  background-color: var(--fc-button-active-bg-color, #1a252f);
+  border-color: #151e27;
+  border-color: var(--fc-button-active-border-color, #151e27);
+}
+
+.fc .fc-button-primary:not(:disabled):active:focus,
+.fc .fc-button-primary:not(:disabled).fc-button-active:focus {
+  box-shadow: 0 0 0 0.2rem rgba(76, 91, 106, 0.5);
+}
+
+.fc {
+  /* icons within buttons */
+}
+
+.fc .fc-button .fc-icon {
+  vertical-align: middle;
+  font-size: 1.5em;
+  /* bump up the size (but don't make it bigger than line-height of button, which is 1.5em also) */
+}
+
+.fc .fc-button-group {
+  position: relative;
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.fc .fc-button-group > .fc-button {
+  position: relative;
+  flex: 1 1 auto;
+}
+
+.fc .fc-button-group > .fc-button:hover {
+  z-index: 1;
+}
+
+.fc .fc-button-group > .fc-button:focus,
+.fc .fc-button-group > .fc-button:active,
+.fc .fc-button-group > .fc-button.fc-button-active {
+  z-index: 1;
+}
+
+.fc-direction-ltr .fc-button-group > .fc-button:not(:first-child) {
+  margin-left: -1px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.fc-direction-ltr .fc-button-group > .fc-button:not(:last-child) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.fc-direction-rtl .fc-button-group > .fc-button:not(:first-child) {
+  margin-right: -1px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.fc-direction-rtl .fc-button-group > .fc-button:not(:last-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.fc .fc-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fc .fc-toolbar.fc-header-toolbar {
+  margin-bottom: 1.5em;
+}
+
+.fc .fc-toolbar.fc-footer-toolbar {
+  margin-top: 1.5em;
+}
+
+.fc .fc-toolbar-title {
+  font-size: 1.75em;
+  margin: 0;
+}
+
+.fc-direction-ltr .fc-toolbar > * > :not(:first-child) {
+  margin-left: .75em;
+  /* space between */
+}
+
+.fc-direction-rtl .fc-toolbar > * > :not(:first-child) {
+  margin-right: .75em;
+  /* space between */
+}
+
+.fc-direction-rtl .fc-toolbar-ltr {
+  /* when the toolbar-chunk positioning system is explicitly left-to-right */
+  flex-direction: row-reverse;
+}
+
+.fc .fc-scroller {
+  -webkit-overflow-scrolling: touch;
+  position: relative;
+  /* for abs-positioned elements within */
+}
+
+.fc .fc-scroller-liquid {
+  height: 100%;
+}
+
+.fc .fc-scroller-liquid-absolute {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.fc .fc-scroller-harness {
+  position: relative;
+  overflow: hidden;
+  direction: ltr;
+  /* hack for chrome computing the scroller's right/left wrong for rtl. undone below... */
+  /* TODO: demonstrate in codepen */
+}
+
+.fc .fc-scroller-harness-liquid {
+  height: 100%;
+}
+
+.fc-direction-rtl .fc-scroller-harness > .fc-scroller {
+  /* undo above hack */
+  direction: rtl;
+}
+
+.fc-theme-standard .fc-scrollgrid {
+  border: 1px solid #ddd;
+  border: 1px solid var(--fc-border-color, #ddd);
+  /* bootstrap does this. match */
+}
+
+.fc .fc-scrollgrid,
+.fc .fc-scrollgrid table {
+  /* all tables (self included) */
+  width: 100%;
+  /* because tables don't normally do this */
+  table-layout: fixed;
+}
+
+.fc .fc-scrollgrid table {
+  /* inner tables */
+  border-top-style: hidden;
+  border-left-style: hidden;
+  border-right-style: hidden;
+}
+
+.fc .fc-scrollgrid {
+  border-collapse: separate;
+  border-right-width: 0;
+  border-bottom-width: 0;
+}
+
+.fc .fc-scrollgrid-liquid {
+  height: 100%;
+}
+
+.fc .fc-scrollgrid-section {
+  /* a <tr> */
+  height: 1px;
+}
+
+.fc .fc-scrollgrid-section > td {
+  height: 1px;
+  /* needs a height so inner div within grow. better than 0, for firefox */
+}
+
+.fc .fc-scrollgrid-section table {
+  height: 1px;
+  /* for most browsers, if a height isn't set on the table, can't do liquid-height within cells */
+  /* serves as a min-height. harmless */
+}
+
+.fc .fc-scrollgrid-section-liquid > td {
+  height: 100%;
+  /* better than `auto`, for firefox */
+}
+
+.fc .fc-scrollgrid-section > * {
+  border-top-width: 0;
+  border-left-width: 0;
+}
+
+.fc .fc-scrollgrid-section-header > *,
+.fc .fc-scrollgrid-section-footer > * {
+  border-bottom-width: 0;
+}
+
+.fc .fc-scrollgrid-section-body table,
+.fc .fc-scrollgrid-section-footer table {
+  border-bottom-style: hidden;
+  /* head keeps its bottom border tho */
+}
+
+.fc {
+  /* stickiness */
+}
+
+.fc .fc-scrollgrid-section-sticky > * {
+  background: #fff;
+  background: var(--fc-page-bg-color, #fff);
+  position: sticky;
+  z-index: 3;
+  /* TODO: var */
+  /* TODO: box-shadow when sticking */
+}
+
+.fc .fc-scrollgrid-section-header.fc-scrollgrid-section-sticky > * {
+  top: 0;
+  /* because border-sharing causes a gap at the top */
+  /* TODO: give safari -1. has bug */
+}
+
+.fc .fc-scrollgrid-section-footer.fc-scrollgrid-section-sticky > * {
+  bottom: 0;
+  /* known bug: bottom-stickiness doesn't work in safari */
+}
+
+.fc .fc-scrollgrid-sticky-shim {
+  /* for horizontal scrollbar */
+  height: 1px;
+  /* needs height to create scrollbars */
+  margin-bottom: -1px;
+}
+
+.fc-sticky {
+  /* no .fc wrap because used as child of body */
+  position: sticky;
+}
+
+.fc .fc-view-harness {
+  flex-grow: 1;
+  /* because this harness is WITHIN the .fc's flexbox */
+  position: relative;
+}
+
+.fc {
+  /* when the harness controls the height, make the view liquid */
+}
+
+.fc .fc-view-harness-active > .fc-view {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.fc .fc-col-header-cell-cushion {
+  display: inline-block;
+  /* x-browser for when sticky (when multi-tier header) */
+  padding: 2px 4px;
+}
+
+.fc .fc-bg-event,
+.fc .fc-non-business,
+.fc .fc-highlight {
+  /* will always have a harness with position:relative/absolute, so absolutely expand */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.fc .fc-non-business {
+  background: rgba(215, 215, 215, 0.3);
+  background: var(--fc-non-business-color, rgba(215, 215, 215, 0.3));
+}
+
+.fc .fc-bg-event {
+  background: #8fdf82;
+  background: var(--fc-bg-event-color, #8fdf82);
+  opacity: 0.3;
+  opacity: var(--fc-bg-event-opacity, 0.3);
+}
+
+.fc .fc-bg-event .fc-event-title {
+  margin: .5em;
+  font-size: .85em;
+  font-size: var(--fc-small-font-size, 0.85em);
+  font-style: italic;
+}
+
+.fc .fc-highlight {
+  background: rgba(188, 232, 241, 0.3);
+  background: var(--fc-highlight-color, rgba(188, 232, 241, 0.3));
+}
+
+.fc .fc-cell-shaded,
+.fc .fc-day-disabled {
+  background: rgba(208, 208, 208, 0.3);
+  background: var(--fc-neutral-bg-color, rgba(208, 208, 208, 0.3));
+}
+
+/* link resets */
+/* ---------------------------------------------------------------------------------------------------- */
+a.fc-event,
+a.fc-event:hover {
+  text-decoration: none;
+}
+
+/* cursor */
+.fc-event[href],
+.fc-event.fc-event-draggable {
+  cursor: pointer;
+}
+
+/* event text content */
+/* ---------------------------------------------------------------------------------------------------- */
+.fc-event .fc-event-main {
+  position: relative;
+  z-index: 2;
+}
+
+/* dragging */
+/* ---------------------------------------------------------------------------------------------------- */
+.fc-event-dragging:not(.fc-event-selected) {
+  /* MOUSE */
+  opacity: 0.75;
+}
+
+.fc-event-dragging.fc-event-selected {
+  /* TOUCH */
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.3);
+}
+
+/* resizing */
+/* ---------------------------------------------------------------------------------------------------- */
+/* (subclasses should hone positioning for touch and non-touch) */
+.fc-event .fc-event-resizer {
+  display: none;
+  position: absolute;
+  z-index: 4;
+}
+
+.fc-event:hover,
+.fc-event-selected {
+  /* TOUCH */
+}
+
+.fc-event:hover .fc-event-resizer, .fc-event-selected .fc-event-resizer {
+  display: block;
+}
+
+.fc-event-selected .fc-event-resizer {
+  border-radius: 4px;
+  border-radius: calc(var(--fc-event-resizer-dot-total-width, 8px) / 2);
+  border-width: 1px;
+  border-width: var(--fc-event-resizer-dot-border-width, 1px);
+  width: 8px;
+  width: var(--fc-event-resizer-dot-total-width, 8px);
+  height: 8px;
+  height: var(--fc-event-resizer-dot-total-width, 8px);
+  border-style: solid;
+  border-color: inherit;
+  background: #fff;
+  background: var(--fc-page-bg-color, #fff);
+}
+
+.fc-event-selected .fc-event-resizer:before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  right: -20px;
+  bottom: -20px;
+}
+
+/* selecting (always TOUCH) */
+/* OR, focused by tab-index */
+/* (TODO: maybe not the best focus-styling for .fc-daygrid-dot-event) */
+/* ---------------------------------------------------------------------------------------------------- */
+.fc-event-selected,
+.fc-event:focus {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.fc-event-selected:before, .fc-event:focus:before {
+  content: "";
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.fc-event-selected,
+.fc-event:focus {
+  /* dimmer effect */
+}
+
+.fc-event-selected:after, .fc-event:focus:after {
+  content: "";
+  background: rgba(0, 0, 0, 0.25);
+  background: var(--fc-event-selected-overlay-color, rgba(0, 0, 0, 0.25));
+  position: absolute;
+  z-index: 1;
+  /* assume there's a border on all sides. overcome it. */
+  /* sometimes there's NOT a border, in which case the dimmer will go over */
+  /* an adjacent border, which looks fine. */
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  bottom: -1px;
+}
+
+/*
+A HORIZONTAL event
+*/
+.fc-h-event {
+  /* allowed to be top-level */
+  display: block;
+  border: 1px solid #3788d8;
+  border: 1px solid var(--fc-event-border-color, #3788d8);
+  background-color: #3788d8;
+  background-color: var(--fc-event-bg-color, #3788d8);
+}
+
+.fc-h-event .fc-event-main {
+  color: #fff;
+  color: var(--fc-event-text-color, #fff);
+}
+
+.fc-h-event .fc-event-main-frame {
+  display: flex;
+  /* for make fc-event-title-container expand */
+}
+
+.fc-h-event .fc-event-time {
+  max-width: 100%;
+  /* clip overflow on this element */
+  overflow: hidden;
+}
+
+.fc-h-event .fc-event-title-container {
+  /* serves as a container for the sticky cushion */
+  flex-grow: 1;
+  flex-shrink: 1;
+  min-width: 0;
+  /* important for allowing to shrink all the way */
+}
+
+.fc-h-event .fc-event-title {
+  display: inline-block;
+  /* need this to be sticky cross-browser */
+  vertical-align: top;
+  /* for not messing up line-height */
+  left: 0;
+  /* for sticky */
+  right: 0;
+  /* for sticky */
+  max-width: 100%;
+  /* clip overflow on this element */
+  overflow: hidden;
+}
+
+.fc-h-event.fc-event-selected:before {
+  /* expand hit area */
+  top: -10px;
+  bottom: -10px;
+}
+
+/* adjust border and border-radius (if there is any) for non-start/end */
+.fc-direction-ltr .fc-daygrid-block-event:not(.fc-event-start),
+.fc-direction-rtl .fc-daygrid-block-event:not(.fc-event-end) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left-width: 0;
+}
+
+.fc-direction-ltr .fc-daygrid-block-event:not(.fc-event-end),
+.fc-direction-rtl .fc-daygrid-block-event:not(.fc-event-start) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right-width: 0;
+}
+
+/* resizers */
+.fc-h-event:not(.fc-event-selected) .fc-event-resizer {
+  top: 0;
+  bottom: 0;
+  width: 8px;
+  width: var(--fc-event-resizer-thickness, 8px);
+}
+
+.fc-direction-ltr .fc-h-event:not(.fc-event-selected) .fc-event-resizer-start,
+.fc-direction-rtl .fc-h-event:not(.fc-event-selected) .fc-event-resizer-end {
+  cursor: w-resize;
+  left: -4px;
+  left: calc(-0.5 * var(--fc-event-resizer-thickness, 8px));
+}
+
+.fc-direction-ltr .fc-h-event:not(.fc-event-selected) .fc-event-resizer-end,
+.fc-direction-rtl .fc-h-event:not(.fc-event-selected) .fc-event-resizer-start {
+  cursor: e-resize;
+  right: -4px;
+  right: calc(-0.5 * var(--fc-event-resizer-thickness, 8px));
+}
+
+/* resizers for TOUCH */
+.fc-h-event.fc-event-selected .fc-event-resizer {
+  top: 50%;
+  margin-top: -4px;
+  margin-top: calc(-0.5 * var(--fc-event-resizer-dot-total-width, 8px));
+}
+
+.fc-direction-ltr .fc-h-event.fc-event-selected .fc-event-resizer-start,
+.fc-direction-rtl .fc-h-event.fc-event-selected .fc-event-resizer-end {
+  left: -4px;
+  left: calc(-0.5 * var(--fc-event-resizer-dot-total-width, 8px));
+}
+
+.fc-direction-ltr .fc-h-event.fc-event-selected .fc-event-resizer-end,
+.fc-direction-rtl .fc-h-event.fc-event-selected .fc-event-resizer-start {
+  right: -4px;
+  right: calc(-0.5 * var(--fc-event-resizer-dot-total-width, 8px));
+}
+
+.fc .fc-popover {
+  position: absolute;
+  z-index: 9999;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.fc .fc-popover-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px 4px;
+}
+
+.fc .fc-popover-title {
+  margin: 0 2px;
+}
+
+.fc .fc-popover-close {
+  cursor: pointer;
+  opacity: 0.65;
+  font-size: 1.1em;
+}
+
+.fc-theme-standard .fc-popover {
+  border: 1px solid #ddd;
+  border: 1px solid var(--fc-border-color, #ddd);
+  background: #fff;
+  background: var(--fc-page-bg-color, #fff);
+}
+
+.fc-theme-standard .fc-popover-header {
+  background: rgba(208, 208, 208, 0.3);
+  background: var(--fc-neutral-bg-color, rgba(208, 208, 208, 0.3));
+}
+
+:root {
+  --fc-daygrid-event-dot-width: 8px;
+}
+
+/* help things clear margins of inner content */
+.fc-daygrid-day-frame,
+.fc-daygrid-day-events,
+.fc-daygrid-event-harness {
+  /* for event top/bottom margins */
+}
+
+.fc-daygrid-day-frame:before, .fc-daygrid-day-events:before, .fc-daygrid-event-harness:before {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.fc-daygrid-day-frame:after, .fc-daygrid-day-events:after, .fc-daygrid-event-harness:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.fc .fc-daygrid-body {
+  /* a <div> that wraps the table */
+  position: relative;
+  z-index: 1;
+  /* container inner z-index's because <tr>s can't do it */
+}
+
+.fc .fc-daygrid-day.fc-day-today {
+  background-color: rgba(255, 220, 40, 0.15);
+  background-color: var(--fc-today-bg-color, rgba(255, 220, 40, 0.15));
+}
+
+.fc .fc-daygrid-day-frame {
+  position: relative;
+  min-height: 100%;
+  /* seems to work better than `height` because sets height after rows/cells naturally do it */
+}
+
+.fc {
+  /* cell top */
+}
+
+.fc .fc-daygrid-day-top {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.fc .fc-day-other .fc-daygrid-day-top {
+  opacity: 0.3;
+}
+
+.fc {
+  /* day number (within cell top) */
+}
+
+.fc .fc-daygrid-day-number {
+  position: relative;
+  z-index: 4;
+  padding: 4px;
+}
+
+.fc {
+  /* event container */
+}
+
+.fc .fc-daygrid-day-events {
+  margin-top: 1px;
+  /* needs to be margin, not padding, so that available cell height can be computed */
+}
+
+.fc {
+  /* positioning for balanced vs natural */
+}
+
+.fc .fc-daygrid-body-balanced .fc-daygrid-day-events {
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.fc .fc-daygrid-body-unbalanced .fc-daygrid-day-events {
+  position: relative;
+  /* for containing abs positioned event harnesses */
+  min-height: 2em;
+  /* in addition to being a min-height during natural height, equalizes the heights a little bit */
+}
+
+.fc .fc-daygrid-body-natural {
+  /* can coexist with -unbalanced */
+}
+
+.fc .fc-daygrid-body-natural .fc-daygrid-day-events {
+  margin-bottom: 1em;
+}
+
+.fc {
+  /* event harness */
+}
+
+.fc .fc-daygrid-event-harness {
+  position: relative;
+}
+
+.fc .fc-daygrid-event-harness-abs {
+  position: absolute;
+  top: 0;
+  /* fallback coords for when cannot yet be computed */
+  left: 0;
+  /* */
+  right: 0;
+  /* */
+}
+
+.fc .fc-daygrid-bg-harness {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+
+.fc {
+  /* bg content */
+}
+
+.fc .fc-daygrid-day-bg .fc-non-business {
+  z-index: 1;
+}
+
+.fc .fc-daygrid-day-bg .fc-bg-event {
+  z-index: 2;
+}
+
+.fc .fc-daygrid-day-bg .fc-highlight {
+  z-index: 3;
+}
+
+.fc {
+  /* events */
+}
+
+.fc .fc-daygrid-event {
+  z-index: 6;
+  margin-top: 1px;
+}
+
+.fc .fc-daygrid-event.fc-event-mirror {
+  z-index: 7;
+}
+
+.fc {
+  /* cell bottom (within day-events) */
+}
+
+.fc .fc-daygrid-day-bottom {
+  font-size: .85em;
+  padding: 2px 3px 0;
+}
+
+.fc .fc-daygrid-day-bottom:before {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.fc .fc-daygrid-more-link {
+  position: relative;
+  z-index: 4;
+  cursor: pointer;
+}
+
+.fc {
+  /* week number (within frame) */
+}
+
+.fc .fc-daygrid-week-number {
+  position: absolute;
+  z-index: 5;
+  top: 0;
+  padding: 2px;
+  min-width: 1.5em;
+  text-align: center;
+  background-color: rgba(208, 208, 208, 0.3);
+  background-color: var(--fc-neutral-bg-color, rgba(208, 208, 208, 0.3));
+  color: #808080;
+  color: var(--fc-neutral-text-color, #808080);
+}
+
+.fc {
+  /* popover */
+}
+
+.fc .fc-more-popover .fc-popover-body {
+  min-width: 220px;
+  padding: 10px;
+}
+
+.fc-direction-ltr .fc-daygrid-event.fc-event-start,
+.fc-direction-rtl .fc-daygrid-event.fc-event-end {
+  margin-left: 2px;
+}
+
+.fc-direction-ltr .fc-daygrid-event.fc-event-end,
+.fc-direction-rtl .fc-daygrid-event.fc-event-start {
+  margin-right: 2px;
+}
+
+.fc-direction-ltr .fc-daygrid-week-number {
+  left: 0;
+  border-radius: 0 0 3px 0;
+}
+
+.fc-direction-rtl .fc-daygrid-week-number {
+  right: 0;
+  border-radius: 0 0 0 3px;
+}
+
+.fc-liquid-hack .fc-daygrid-day-frame {
+  position: static;
+  /* will cause inner absolute stuff to expand to <td> */
+}
+
+.fc-daygrid-event {
+  /* make root-level, because will be dragged-and-dropped outside of a component root */
+  position: relative;
+  /* for z-indexes assigned later */
+  white-space: nowrap;
+  border-radius: 3px;
+  /* dot event needs this to when selected */
+  font-size: .85em;
+  font-size: var(--fc-small-font-size, 0.85em);
+}
+
+/* --- the rectangle ("block") style of event --- */
+.fc-daygrid-block-event .fc-event-time {
+  font-weight: bold;
+}
+
+.fc-daygrid-block-event .fc-event-time,
+.fc-daygrid-block-event .fc-event-title {
+  padding: 1px;
+}
+
+/* --- the dot style of event --- */
+.fc-daygrid-dot-event {
+  display: flex;
+  align-items: center;
+  padding: 2px 0;
+}
+
+.fc-daygrid-dot-event .fc-event-title {
+  flex-grow: 1;
+  flex-shrink: 1;
+  min-width: 0;
+  /* important for allowing to shrink all the way */
+  overflow: hidden;
+  font-weight: bold;
+}
+
+.fc-daygrid-dot-event:hover,
+.fc-daygrid-dot-event.fc-event-mirror {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.fc-daygrid-dot-event.fc-event-selected:before {
+  /* expand hit area */
+  top: -10px;
+  bottom: -10px;
+}
+
+.fc-daygrid-event-dot {
+  /* the actual dot */
+  margin: 0 4px;
+  box-sizing: content-box;
+  width: 0;
+  height: 0;
+  border: 4px solid #3788d8;
+  border: calc(var(--fc-daygrid-event-dot-width, 8px) / 2) solid var(--fc-event-border-color, #3788d8);
+  border-radius: 4px;
+  border-radius: calc(var(--fc-daygrid-event-dot-width, 8px) / 2);
+}
+
+/* --- spacing between time and title --- */
+.fc-direction-ltr .fc-daygrid-event .fc-event-time {
+  margin-right: 3px;
+}
+
+.fc-direction-rtl .fc-daygrid-event .fc-event-time {
+  margin-left: 3px;
+}
+
+/*
+A VERTICAL event
+*/
+.fc-v-event {
+  /* allowed to be top-level */
+  display: block;
+  border: 1px solid #3788d8;
+  border: 1px solid var(--fc-event-border-color, #3788d8);
+  background-color: #3788d8;
+  background-color: var(--fc-event-bg-color, #3788d8);
+}
+
+.fc-v-event .fc-event-main {
+  color: #fff;
+  color: var(--fc-event-text-color, #fff);
+  height: 100%;
+}
+
+.fc-v-event .fc-event-main-frame {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.fc-v-event .fc-event-time {
+  flex-grow: 0;
+  flex-shrink: 0;
+  max-height: 100%;
+  overflow: hidden;
+}
+
+.fc-v-event .fc-event-title-container {
+  /* a container for the sticky cushion */
+  flex-grow: 1;
+  flex-shrink: 1;
+  min-height: 0;
+  /* important for allowing to shrink all the way */
+}
+
+.fc-v-event .fc-event-title {
+  /* will have fc-sticky on it */
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+  /* clip overflow */
+  overflow: hidden;
+}
+
+.fc-v-event:not(.fc-event-start) {
+  border-top-width: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.fc-v-event:not(.fc-event-end) {
+  border-bottom-width: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.fc-v-event.fc-event-selected:before {
+  /* expand hit area */
+  left: -10px;
+  right: -10px;
+}
+
+.fc-v-event {
+  /* resizer (mouse AND touch) */
+}
+
+.fc-v-event .fc-event-resizer-start {
+  cursor: n-resize;
+}
+
+.fc-v-event .fc-event-resizer-end {
+  cursor: s-resize;
+}
+
+.fc-v-event {
+  /* resizer for MOUSE */
+}
+
+.fc-v-event:not(.fc-event-selected) .fc-event-resizer {
+  height: 8px;
+  height: var(--fc-event-resizer-thickness, 8px);
+  left: 0;
+  right: 0;
+}
+
+.fc-v-event:not(.fc-event-selected) .fc-event-resizer-start {
+  top: -4px;
+  top: calc(var(--fc-event-resizer-thickness, 8px) / -2);
+}
+
+.fc-v-event:not(.fc-event-selected) .fc-event-resizer-end {
+  bottom: -4px;
+  bottom: calc(var(--fc-event-resizer-thickness, 8px) / -2);
+}
+
+.fc-v-event {
+  /* resizer for TOUCH (when event is "selected") */
+}
+
+.fc-v-event.fc-event-selected .fc-event-resizer {
+  left: 50%;
+  margin-left: -4px;
+  margin-left: calc(var(--fc-event-resizer-dot-total-width, 8px) / -2);
+}
+
+.fc-v-event.fc-event-selected .fc-event-resizer-start {
+  top: -4px;
+  top: calc(var(--fc-event-resizer-dot-total-width, 8px) / -2);
+}
+
+.fc-v-event.fc-event-selected .fc-event-resizer-end {
+  bottom: -4px;
+  bottom: calc(var(--fc-event-resizer-dot-total-width, 8px) / -2);
+}
+
+.fc .fc-timegrid .fc-daygrid-body {
+  /* the all-day daygrid within the timegrid view */
+  z-index: 2;
+  /* put above the timegrid-body so that more-popover is above everything. TODO: better solution */
+}
+
+.fc .fc-timegrid-divider {
+  padding: 0 0 2px;
+  /* browsers get confused when you set height. use padding instead */
+}
+
+.fc .fc-timegrid-body {
+  position: relative;
+  z-index: 1;
+  /* scope the z-indexes of slots and cols */
+  min-height: 100%;
+  /* fill height always, even when slat table doesn't grow */
+}
+
+.fc .fc-timegrid-axis-chunk {
+  /* for advanced ScrollGrid */
+  position: relative;
+}
+
+.fc .fc-timegrid-axis-chunk > table {
+  position: relative;
+  z-index: 1;
+  /* above the now-indicator-container */
+}
+
+.fc .fc-timegrid-slots {
+  position: relative;
+  z-index: 1;
+}
+
+.fc .fc-timegrid-slot {
+  /* a <td> */
+  height: 1.5em;
+  border-bottom: 0;
+}
+
+.fc .fc-timegrid-slot:empty:before {
+  content: '\00a0';
+  /* make sure there's at least an empty space to create height for height syncing */
+}
+
+.fc .fc-timegrid-slot-minor {
+  border-top-style: dotted;
+}
+
+.fc .fc-timegrid-slot-label-cushion {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.fc .fc-timegrid-slot-label {
+  vertical-align: middle;
+  /* vertical align the slots */
+}
+
+.fc {
+  /* slots AND axis cells (top-left corner of view including the "all-day" text) */
+}
+
+.fc .fc-timegrid-axis-cushion,
+.fc .fc-timegrid-slot-label-cushion {
+  padding: 0 4px;
+}
+
+.fc {
+  /* axis cells (top-left corner of view including the "all-day" text) */
+  /* vertical align is more complicated, uses flexbox */
+}
+
+.fc .fc-timegrid-axis-frame-liquid {
+  height: 100%;
+  /* will need liquid-hack in FF */
+}
+
+.fc .fc-timegrid-axis-frame {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  /* vertical align */
+  justify-content: flex-end;
+  /* horizontal align. matches text-align below */
+}
+
+.fc .fc-timegrid-axis-cushion {
+  max-width: 60px;
+  /* limits the width of the "all-day" text */
+  flex-shrink: 0;
+  /* allows text to expand how it normally would, regardless of constrained width */
+}
+
+.fc-direction-ltr .fc-timegrid-slot-label-frame {
+  text-align: right;
+}
+
+.fc-direction-rtl .fc-timegrid-slot-label-frame {
+  text-align: left;
+}
+
+.fc-liquid-hack .fc-timegrid-axis-frame-liquid {
+  height: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.fc .fc-timegrid-col.fc-day-today {
+  background-color: rgba(255, 220, 40, 0.15);
+  background-color: var(--fc-today-bg-color, rgba(255, 220, 40, 0.15));
+}
+
+.fc .fc-timegrid-col-frame {
+  min-height: 100%;
+  /* liquid-hack is below */
+  position: relative;
+}
+
+.fc-media-screen.fc-liquid-hack .fc-timegrid-col-frame {
+  height: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.fc-media-screen .fc-timegrid-cols {
+  position: absolute;
+  /* no z-index. children will decide and go above slots */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.fc-media-screen .fc-timegrid-cols > table {
+  height: 100%;
+}
+
+.fc-media-screen .fc-timegrid-col-bg,
+.fc-media-screen .fc-timegrid-col-events,
+.fc-media-screen .fc-timegrid-now-indicator-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.fc {
+  /* bg */
+}
+
+.fc .fc-timegrid-col-bg {
+  z-index: 2;
+  /* TODO: kill */
+}
+
+.fc .fc-timegrid-col-bg .fc-non-business {
+  z-index: 1;
+}
+
+.fc .fc-timegrid-col-bg .fc-bg-event {
+  z-index: 2;
+}
+
+.fc .fc-timegrid-col-bg .fc-highlight {
+  z-index: 3;
+}
+
+.fc .fc-timegrid-bg-harness {
+  position: absolute;
+  /* top/bottom will be set by JS */
+  left: 0;
+  right: 0;
+}
+
+.fc {
+  /* fg events */
+  /* (the mirror segs are put into a separate container with same classname, */
+  /* and they must be after the normal seg container to appear at a higher z-index) */
+}
+
+.fc .fc-timegrid-col-events {
+  z-index: 3;
+  /* child event segs have z-indexes that are scoped within this div */
+}
+
+.fc {
+  /* now indicator */
+}
+
+.fc .fc-timegrid-now-indicator-container {
+  bottom: 0;
+  overflow: hidden;
+  /* don't let overflow of lines/arrows cause unnecessary scrolling */
+  /* z-index is set on the individual elements */
+}
+
+.fc-direction-ltr .fc-timegrid-col-events {
+  margin: 0 2.5% 0 2px;
+}
+
+.fc-direction-rtl .fc-timegrid-col-events {
+  margin: 0 2px 0 2.5%;
+}
+
+.fc-timegrid-event-harness {
+  position: absolute;
+}
+
+.fc-timegrid-event-harness > .fc-timegrid-event {
+  position: absolute;
+  /* absolute WITHIN the harness */
+  top: 0;
+  /* for when not yet positioned */
+  bottom: 0;
+  /* " */
+  left: 0;
+  right: 0;
+}
+
+.fc-timegrid-event-harness-inset .fc-timegrid-event,
+.fc-timegrid-event.fc-event-mirror,
+.fc-timegrid-more-link {
+  box-shadow: 0px 0px 0px 1px #fff;
+  box-shadow: 0px 0px 0px 1px var(--fc-page-bg-color, #fff);
+}
+
+.fc-timegrid-event,
+.fc-timegrid-more-link {
+  /* events need to be root */
+  font-size: .85em;
+  font-size: var(--fc-small-font-size, 0.85em);
+  border-radius: 3px;
+}
+
+.fc-timegrid-event {
+  /* events need to be root */
+  margin-bottom: 1px;
+}
+
+.fc-timegrid-event .fc-event-main {
+  padding: 1px 1px 0;
+}
+
+.fc-timegrid-event .fc-event-time {
+  white-space: nowrap;
+  font-size: .85em;
+  font-size: var(--fc-small-font-size, 0.85em);
+  margin-bottom: 1px;
+}
+
+.fc-timegrid-event-short .fc-event-main-frame {
+  flex-direction: row;
+  overflow: hidden;
+}
+
+.fc-timegrid-event-short .fc-event-time:after {
+  content: '\00a0-\00a0';
+  /* dash surrounded by non-breaking spaces */
+}
+
+.fc-timegrid-event-short .fc-event-title {
+  font-size: .85em;
+  font-size: var(--fc-small-font-size, 0.85em);
+}
+
+.fc-timegrid-more-link {
+  /* does NOT inherit from fc-timegrid-event */
+  position: absolute;
+  z-index: 9999;
+  /* hack */
+  color: inherit;
+  color: var(--fc-more-link-text-color, inherit);
+  background: #d0d0d0;
+  background: var(--fc-more-link-bg-color, #d0d0d0);
+  cursor: pointer;
+  margin-bottom: 1px;
+  /* match space below fc-timegrid-event */
+}
+
+.fc-timegrid-more-link-inner {
+  /* has fc-sticky */
+  padding: 3px 2px;
+  top: 0;
+}
+
+.fc-direction-ltr .fc-timegrid-more-link {
+  right: 0;
+}
+
+.fc-direction-rtl .fc-timegrid-more-link {
+  left: 0;
+}
+
+.fc {
+  /* line */
+}
+
+.fc .fc-timegrid-now-indicator-line {
+  position: absolute;
+  z-index: 4;
+  left: 0;
+  right: 0;
+  border-style: solid;
+  border-color: red;
+  border-color: var(--fc-now-indicator-color, red);
+  border-width: 1px 0 0;
+}
+
+.fc {
+  /* arrow */
+}
+
+.fc .fc-timegrid-now-indicator-arrow {
+  position: absolute;
+  z-index: 4;
+  margin-top: -5px;
+  /* vertically center on top coordinate */
+  border-style: solid;
+  border-color: red;
+  border-color: var(--fc-now-indicator-color, red);
+}
+
+.fc-direction-ltr .fc-timegrid-now-indicator-arrow {
+  left: 0;
+  /* triangle pointing right. TODO: mixin */
+  border-width: 5px 0 5px 6px;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+}
+
+.fc-direction-rtl .fc-timegrid-now-indicator-arrow {
+  right: 0;
+  /* triangle pointing left. TODO: mixin */
+  border-width: 5px 6px 5px 0;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+}
+
+:root {
+  --fc-list-event-dot-width: 10px;
+  --fc-list-event-hover-bg-color: #f5f5f5;
+}
+
+.fc-theme-standard .fc-list {
+  border: 1px solid #ddd;
+  border: 1px solid var(--fc-border-color, #ddd);
+}
+
+.fc {
+  /* message when no events */
+}
+
+.fc .fc-list-empty {
+  background-color: rgba(208, 208, 208, 0.3);
+  background-color: var(--fc-neutral-bg-color, rgba(208, 208, 208, 0.3));
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* vertically aligns fc-list-empty-inner */
+}
+
+.fc .fc-list-empty-cushion {
+  margin: 5em 0;
+}
+
+.fc {
+  /* table within the scroller */
+  /* ---------------------------------------------------------------------------------------------------- */
+}
+
+.fc .fc-list-table {
+  width: 100%;
+  border-style: hidden;
+  /* kill outer border on theme */
+}
+
+.fc .fc-list-table tr > * {
+  border-left: 0;
+  border-right: 0;
+}
+
+.fc .fc-list-sticky .fc-list-day > * {
+  /* the cells */
+  position: sticky;
+  top: 0;
+  background: #fff;
+  background: var(--fc-page-bg-color, #fff);
+  /* for when headers are styled to be transparent and sticky */
+}
+
+.fc {
+  /* only exists for aria reasons, hide for non-screen-readers */
+}
+
+.fc .fc-list-table thead {
+  position: absolute;
+  left: -10000px;
+}
+
+.fc {
+  /* the table's border-style:hidden gets confused by hidden thead. force-hide top border of first cell */
+}
+
+.fc .fc-list-table tbody > tr:first-child th {
+  border-top: 0;
+}
+
+.fc .fc-list-table th {
+  padding: 0;
+  /* uses an inner-wrapper instead... */
+}
+
+.fc .fc-list-table td,
+.fc .fc-list-day-cushion {
+  padding: 8px 14px;
+}
+
+.fc {
+  /* date heading rows */
+  /* ---------------------------------------------------------------------------------------------------- */
+}
+
+.fc .fc-list-day-cushion:after {
+  content: "";
+  clear: both;
+  display: table;
+  /* clear floating */
+}
+
+.fc-theme-standard .fc-list-day-cushion {
+  background-color: rgba(208, 208, 208, 0.3);
+  background-color: var(--fc-neutral-bg-color, rgba(208, 208, 208, 0.3));
+}
+
+.fc-direction-ltr .fc-list-day-text,
+.fc-direction-rtl .fc-list-day-side-text {
+  float: left;
+}
+
+.fc-direction-ltr .fc-list-day-side-text,
+.fc-direction-rtl .fc-list-day-text {
+  float: right;
+}
+
+/* make the dot closer to the event title */
+.fc-direction-ltr .fc-list-table .fc-list-event-graphic {
+  padding-right: 0;
+}
+
+.fc-direction-rtl .fc-list-table .fc-list-event-graphic {
+  padding-left: 0;
+}
+
+.fc .fc-list-event.fc-event-forced-url {
+  cursor: pointer;
+  /* whole row will seem clickable */
+}
+
+.fc .fc-list-event:hover td {
+  background-color: #f5f5f5;
+  background-color: var(--fc-list-event-hover-bg-color, #f5f5f5);
+}
+
+.fc {
+  /* shrink certain cols */
+}
+
+.fc .fc-list-event-graphic,
+.fc .fc-list-event-time {
+  white-space: nowrap;
+  width: 1px;
+}
+
+.fc .fc-list-event-dot {
+  display: inline-block;
+  box-sizing: content-box;
+  width: 0;
+  height: 0;
+  border: 5px solid #3788d8;
+  border: calc(var(--fc-list-event-dot-width, 10px) / 2) solid var(--fc-event-border-color, #3788d8);
+  border-radius: 5px;
+  border-radius: calc(var(--fc-list-event-dot-width, 10px) / 2);
+}
+
+.fc {
+  /* reset <a> styling */
+}
+
+.fc .fc-list-event-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.fc {
+  /* underline link when hovering over any part of row */
+}
+
+.fc .fc-list-event.fc-event-forced-url:hover a {
+  text-decoration: underline;
+}
+
+.fc-theme-bootstrap a:not([href]) {
+  color: inherit;
+  /* natural color for navlinks */
+}
+
+.fc-theme-bootstrap5 a:not([href]) {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.fc-theme-bootstrap5 .fc-list,
+.fc-theme-bootstrap5 .fc-scrollgrid,
+.fc-theme-bootstrap5 td,
+.fc-theme-bootstrap5 th {
+  border: 1px solid var(--bs-gray-400);
+}
+
+.fc-theme-bootstrap5 {
+  /* HACK: reapply core styles after highe-precedence border statement above */
+}
+
+.fc-theme-bootstrap5 .fc-scrollgrid {
+  border-right-width: 0;
+  border-bottom-width: 0;
+}
+
+.fc-theme-bootstrap5-shaded {
+  background-color: var(--bs-gray-200);
+}
+
+#schedplan-outer {
+  position: relative;
+}
+
+.small-screen #schedplan-outer .column-two {
+  width: 25%;
+}
+
+@media all and (max-width: 48rem) {
+  #schedplan-outer .column-seven,
+  #advising-calendar .column-seven {
+    width: 75%;
+  }
+}
+
+@media all and (max-width: 700px) {
+  #schedplan-outer .column-seven {
+    width: 100%;
+  }
+  .small-screen #schedplan-outer .column-two {
+    width: 100%;
+  }
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Degree Plan                        //////////  */
+/* ----------------------------------------------------------- */
+#timeline-remove-courses {
+  margin-right: 1em;
+}
+
+.clear-term-list li span {
+  padding-left: .8em;
+}
+
+#schedplan-dp {
+  padding: 0;
+}
+
+/* Degree Plan Window */
+#dp-plans {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-left: 0;
+  margin-top: 1rem;
+  background-color: #ffffff;
+  padding: .846em 1.769em;
+  border: 1px solid #999999;
+}
+
+@media all and (max-width: 500px) {
+  #dp-plans::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .touch #dp-plans {
+    padding: .846em 3.077em;
+  }
+  .dp-termouter {
+    width: 21.769em;
+  }
+  .touch .dp-termouter {
+    width: 20.846em;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .touch #dp-plans {
+    padding: .846em 3.077em;
+  }
+  .dp-termouter {
+    width: 26em;
+  }
+  .touch .dp-termouter {
+    width: 24.615em;
+  }
+}
+
+@media all and (max-width: 480px) {
+  .touch #dp-plans {
+    padding: .846em 3.077em;
+  }
+  .dp-termouter {
+    width: 29.692em;
+  }
+}
+
+.dp-termwrapper {
+  width: 1538.462em;
+  overflow: hidden;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  -o-transition: all .5s;
+  transition: all .5s;
+}
+
+/* Degree Plan Scroll Buttons */
+button#scroll-left {
+  position: absolute;
+  z-index: 1;
+  top: inherit;
+  left: 0;
+  padding: .462em;
+  -webkit-border-radius: 0 4px 4px 0;
+  -moz-border-radius: 0 4px 4px 0;
+  border-radius: 0 4px 4px 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 4px;
+  height: 28.769em;
+  margin: 0;
+}
+
+button#scroll-right {
+  position: absolute;
+  z-index: 1;
+  top: inherit;
+  right: 0;
+  padding: .462em;
+  -webkit-border-radius: 4px 0 0 4px;
+  -moz-border-radius: 4px 0 0 4px;
+  border-radius: 4px 0 0 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 0;
+  height: 28.769em;
+  margin: 0;
+}
+
+/* Term Display */
+.dp-termouter {
+  width: 20em;
+  display: inline-block;
+  margin-right: .462em;
+  margin-left: .462em;
+  border: 1px solid #999999;
+  float: left;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  -o-transition: all .5s;
+  transition: all .5s;
+}
+
+.dp-removetermcontainer {
+  float: right;
+  margin-top: -2em;
+  margin-right: .154em;
+}
+
+.dp-termheader {
+  padding: .615em .769em .308em;
+  line-height: 1.923em;
+  background-color: #f4f4f4;
+  border-bottom: 1px solid #999999;
+}
+
+/* Term Details */
+.dp-floatright {
+  float: right;
+}
+
+.dp-text14 {
+  font-size: 1.167em;
+}
+
+.dp-creditstext {
+  display: block;
+  font-size: .909em;
+  font-weight: normal;
+  margin: -.5em 0 0;
+  padding: 0;
+}
+
+.dp-gradedisplay {
+  margin-right: .429em;
+  position: relative;
+  top: -.875rem;
+}
+
+.dp-termcourses {
+  height: 22.308em;
+  padding-top: .846em;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.dp-termfooter {
+  background-color: #f4f4f4;
+  border-top: 1px solid #999999;
+  font-size: .769rem;
+  font-weight: bold;
+  padding: .3rem .6rem;
+  text-align: right;
+  height: 3.6rem;
+}
+
+.dp-termfooter div {
+  float: left;
+}
+
+.dp-termfooter span {
+  padding-left: 1em;
+}
+
+div.dp-termlisting {
+  text-align: left;
+  font-size: 1.077em;
+  font-weight: bold;
+  color: #444444;
+}
+
+.dp-coursebubble {
+  width: 92%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  padding-top: .25em;
+  padding-bottom: .167em;
+  line-height: 1.4;
+  height: auto;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  margin-bottom: .583em;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  clear: both;
+  font-size: .923em;
+  transition: border 333ms ease-out;
+}
+
+.dp-coursebubble-complete {
+  background-color: #efefef;
+  border: 1px #d5d5d5 solid;
+  color: #444444;
+}
+
+.dp-coursebubble-planned {
+  border: 1px #767676 solid;
+  color: #ffffff;
+  background-color: #767676;
+}
+
+.dp-coursebubble-indentedtext {
+  padding: .364em 0 .273em .727em;
+  font-size: .846em;
+  line-height: 1.1em;
+}
+
+/* Course Warnings */
+.dp-coursesection-permissiontoregister {
+  font-weight: lighter;
+}
+
+.dp-warning-bubble {
+  border: 1px solid #8a6a00;
+  background-color: #f5f2e7;
+  color: #8a6a00;
+  margin: .3em .6em .4em;
+  font-size: .769em;
+  padding: .4rem;
+  border-radius: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.dp-warning-bubble a {
+  color: #8a6a00;
+}
+
+.dp-info-bubble {
+  border: 1px solid #2874bb;
+  background-color: #eff7ff;
+  color: #2874bb;
+  margin: .3em .6em .4em;
+  font-size: .769em;
+  padding: .4rem;
+  border-radius: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.dp-info-bubble a {
+  color: #2874bb;
+}
+
+.dp-error-bubble {
+  border: 1px solid #d42828;
+  background-color: #ffeeed;
+  color: #d42828;
+  margin: .3em .6em .4em;
+  font-size: .769em;
+  padding: .4rem;
+  border-radius: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.dp-currenttermicon-padded {
+  padding-right: .769em;
+}
+
+.dp-coursebubble-indentedtext a:link, .dp-coursebubble-indentedtext a:visited, .dp-coursebubble-indentedtext a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+.dp-coursebubble-indentedtext a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.dp-completedcoursetable {
+  width: 100%;
+}
+
+.dp-completedcoursetable .dp-coursebubble-indentedtext a,
+.dp-coursebubble-complete .dp-coursebubble-indentedtext a {
+  text-shadow: none;
+}
+
+.dp-plannedcoursetable {
+  width: 100%;
+}
+
+.dp-plannedcoursetitlecell {
+  width: 90%;
+}
+
+.dp-completedcoursetable tr td {
+  vertical-align: top;
+}
+
+.dp-plannedcoursetable tr td {
+  vertical-align: top;
+}
+
+/* Degree Plan Dialog Elements */
+.cancel-button {
+  margin-top: .9em;
+}
+
+#dp-removingtermname,
+#dp-removingcoursename {
+  font-weight: bold;
+  display: block;
+  padding: 1em 0 0 0;
+}
+
+#schedplan-addtermcontent {
+  padding-bottom: .846em;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Schedule                           //////////  */
+/* ----------------------------------------------------------- */
+.advising-term-data #schedule-inner-plan-wrapper {
+  margin-top: 0;
+}
+
+@media all and (max-width: 480px) {
+  .schedule-wrapper-container {
+    margin-bottom: 0.923em;
+  }
+}
+
+#schedule-tabs > div {
+  margin-bottom: .625rem;
+}
+
+#schedule-data > div {
+  display: table-row;
+}
+
+@media only screen and (min-width: 26.25rem) {
+  #schedule-data > div {
+    display: inline;
+  }
+  #schedule-data > div > div > span {
+    display: table-cell;
+    margin-bottom: 0;
+  }
+}
+
+#schedule-activeterm-text {
+  display: inline-block;
+}
+
+@media only screen and (min-width: 26.25rem) {
+  #schedule-activeterm-text {
+    margin-left: .625rem;
+    margin-right: .625rem;
+  }
+}
+
+/* Register/Clear Term Buttons */
+#register-hr {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  #register-hr {
+    display: block;
+  }
+}
+
+/* Print, iCal Buttons */
+.filter-sections {
+  float: left;
+}
+
+#print-schedule {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  #print-schedule {
+    display: inline;
+  }
+}
+
+#save-ical {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  #save-ical {
+    display: inline;
+  }
+}
+
+#toggle-section-filters {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  #toggle-section-filters {
+    display: inline;
+  }
+}
+
+@media all and (max-width: 700px) {
+  #schedule-data .no-meeting-time {
+    border-right: none;
+    border-left: none;
+  }
+}
+
+/* Credit Totals */
+.credit-total-wrapper {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  .credit-total-wrapper {
+    display: block;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 75rem) {
+  .credit-total-wrapper {
+    text-align: right;
+  }
+}
+
+/* Filter Button and Menu */
+a.filter-sections-collapsed div:first-child,
+a.filter-sections-expanded div:first-child {
+  display: inline-block;
+  padding-top: .5rem;
+}
+
+.filter-sections:hover {
+  text-decoration: none;
+}
+
+.filter-sections div:nth-of-type(1) {
+  padding-top: .1em;
+  padding-right: .2em;
+}
+
+.filter-sections div {
+  display: inline-block;
+}
+
+.corner-caret {
+  border-color: transparent transparent #444444;
+  border-style: solid;
+  border-width: 0 0 6px 6px;
+  bottom: .342em;
+  height: 0;
+  position: absolute;
+  right: .342em;
+  width: 0;
+}
+
+#schedule-section-filters-wrapper {
+  display: none;
+}
+
+.schedule-filter-header {
+  min-height: 5.5em;
+}
+
+#section-filter-availability-enabled .schedule-filter-header,
+#section-filter-location-enabled .schedule-filter-header,
+#section-filter-dayofweek-enabled .schedule-filter-header,
+#section-filter-timeofday-enabled .schedule-filter-header,
+#section-filter-topic-enabled .schedule-filter-header,
+#section-filter-instructor-enabled .schedule-filter-header {
+  background-color: #f4f4f4;
+  padding: .769em 0 .855em .855em;
+  border-right: 1px solid #bdbdbd;
+  border-top: 1px solid #bdbdbd;
+  border-bottom: 1px solid #bdbdbd;
+}
+
+#section-filter-availability-enabled .schedule-filter-header {
+  border-left: 1px solid #bdbdbd;
+}
+
+@media all and (max-width: 700px) {
+  .schedule-filter-header {
+    height: 7.556em;
+  }
+}
+
+.schedule-filter-current {
+  color: #444444;
+  padding: .38em .95em 0 0;
+  white-space: pre-wrap;
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* remove the list style */
+#filters-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Expanded Filter Header Display */
+#section-filter-availability-enabled .filter-header-link-expanded .schedule-filter-header,
+#section-filter-location-enabled .filter-header-link-expanded .schedule-filter-header,
+#section-filter-dayofweek-enabled .filter-header-link-expanded .schedule-filter-header,
+#section-filter-timeofday-enabled .filter-header-link-expanded .schedule-filter-header,
+#section-filter-topic-enabled .filter-header-link-expanded .schedule-filter-header,
+#section-filter-instructor-enabled .filter-header-link-expanded .schedule-filter-header {
+  background-color: #efefef;
+  color: #444444;
+  text-shadow: 0 1px 0 #ffffff;
+  box-shadow: 0 3px 5px #444444;
+  border: 1px solid #6c6c6c;
+}
+
+#section-filter-availability-enabled .filter-header-link-expanded .schedule-filter-current,
+#section-filter-location-enabled .filter-header-link-expanded .schedule-filter-current,
+#section-filter-dayofweek-enabled .filter-header-link-expanded .schedule-filter-current,
+#section-filter-timeofday-enabled .filter-header-link-expanded .schedule-filter-current,
+#section-filter-topic-enabled .filter-header-link-expanded .schedule-filter-current,
+#section-filter-instructor-enabled .filter-header-link-expanded .schedule-filter-current {
+  color: #444444;
+}
+
+/* Disabled Filter Header Display */
+a.filter-header-link-disabled {
+  cursor: default;
+  text-decoration: none;
+}
+
+#section-filter-availability-disabled .schedule-filter-header,
+#section-filter-location-disabled .schedule-filter-header,
+#section-filter-dayofweek-disabled .schedule-filter-header,
+#section-filter-timeofday-disabled .schedule-filter-header,
+#section-filter-topic-disabled .schedule-filter-header,
+#section-filter-instructor-disabled .schedule-filter-header {
+  background-color: #f4f4f4;
+  color: #444444;
+  padding: .769em 0 .855em .855em;
+  border-right: 1px solid #bdbdbd;
+  border-top: 1px solid #bdbdbd;
+  border-bottom: 1px solid #bdbdbd;
+}
+
+#section-filter-availability-disabled .schedule-filter-header {
+  border: 1px solid #bdbdbd;
+}
+
+#section-filter-availability-disabled .schedule-filter-header .schedule-filter-current,
+#section-filter-location-disabled .schedule-filter-header .schedule-filter-current,
+#section-filter-dayofweek-disabled .schedule-filter-header .schedule-filter-current,
+#section-filter-timeofday-disabled .schedule-filter-header .schedule-filter-current,
+#section-filter-topic-disabled .schedule-filter-header .schedule-filter-current,
+#section-filter-instructor-disabled .schedule-filter-header .schedule-filter-current {
+  color: #444444;
+}
+
+#section-filter-availability-disabled .schedule-filter-header .corner-caret,
+#section-filter-location-disabled .schedule-filter-header .corner-caret,
+#section-filter-dayofweek-disabled .schedule-filter-header .corner-caret,
+#section-filter-timeofday-disabled .schedule-filter-header .corner-caret,
+#section-filter-topic-disabled .schedule-filter-header .corner-caret,
+#section-filter-instructor-disabled .schedule-filter-header .corner-caret {
+  display: none;
+}
+
+/* make the LI display inline */
+/* it's position relative so that position absolute */
+/* can be used in submenu */
+#filters-menu li {
+  float: left;
+  position: relative;
+  width: 16.6%;
+  z-index: 3;
+}
+
+/* this is the parent menu */
+#filters-menu li a {
+  display: block;
+}
+
+/* you can make a different style for default selected value */
+#filters-menu a.selected {
+  color: #e91a1a;
+}
+
+/* submenu, it's hidden by default */
+#filters-menu ul {
+  position: absolute;
+  left: 0;
+  display: none;
+  padding: 0;
+  list-style: none;
+  background: #ffffff;
+  border-bottom: 1px solid #6c6c6c;
+  border-left: 1px solid #6c6c6c;
+  border-right: 1px solid #6c6c6c;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  box-shadow: 0 3px 5px #444444;
+  max-height: 330px;
+  overflow-y: auto;
+}
+
+#filters-menu ul li {
+  border-top: 1px solid #d5d5d5;
+  font-size: 0.9em;
+}
+
+#filters-menu ul li:first-child {
+  border-top: none;
+}
+
+#filters-menu .filters-menu-filter {
+  margin-top: 0;
+}
+
+#filters-menu .filters-menu-filter li {
+  float: none;
+  width: auto;
+}
+
+.filter-link .esg-checkbox {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* display block will make the link fill the whole area of LI */
+#filters-menu ul a {
+  display: block;
+  padding: .598em .427em;
+  color: #555555;
+}
+
+.touch #filters-menu ul a {
+  padding: 1.111em .427em;
+}
+
+#filters-menu ul a:hover {
+  background: #e2e2e2;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  /* Webkit Browsers Fix */
+  a.filter-sections-expanded {
+    margin-top: 1px;
+    border-bottom: 0;
+  }
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Schedule: Calendar View            //////////  */
+/* ----------------------------------------------------------- */
+/* Main Calendar Table Rows and Columns  */
+#home-calendar > .schedule-calendar {
+  border: 1px solid #bdbdbd;
+}
+
+.calendar-remove-event {
+  float: right;
+  padding-right: .125rem;
+}
+
+.schedule-unplanned-section-content button {
+  float: right;
+}
+
+/* styles for calendar items */
+.planned-cal-item {
+  background-color: #f5f2e7;
+  color: #8a6a00;
+  font-weight: bold;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+  font-size: 9px;
+}
+
+.planned-cal-item > div {
+  border: 1px solid #efc728;
+}
+
+.planned-cal-item > div a {
+  color: #8a6a00;
+  cursor: pointer;
+}
+
+.planned-cal-item div.fc-event-title {
+  color: #8a6a00;
+}
+
+.planned-cal-item > div a:hover {
+  text-decoration: none;
+}
+
+.fc-event-title-link {
+  cursor: pointer;
+  font-size: 9px;
+}
+
+.fc-event-title-link:hover {
+  text-decoration: none;
+}
+
+.planned-conflict-cal-item {
+  background-color: #f5f2e7;
+  color: #e91a1a;
+  font-weight: bold;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+  border: 1px solid #e91a1a;
+  font-size: 9px;
+}
+
+.planned-conflict-cal-item > div {
+  border: 1px solid #e91a1a;
+}
+
+.planned-conflict-cal-item > div a {
+  color: #e91a1a;
+  cursor: pointer;
+}
+
+.planned-conflict-cal-item div.fc-event-title {
+  color: #e91a1a;
+}
+
+.registered-cal-item {
+  background: #eaf7f2;
+  color: #00804d;
+  font-weight: bold;
+  font-size: 9px;
+}
+
+.registered-cal-item > div {
+  border: 1px solid #00804d;
+}
+
+.registered-cal-item > div a {
+  color: #00af69;
+  cursor: pointer;
+}
+
+.registered-cal-item div.fc-event-title {
+  color: #00af69;
+}
+
+.registered-cal-item > div a:hover {
+  text-decoration: none;
+}
+
+.preview-normal-cal-item {
+  background-color: #f5f2e7;
+  color: #262626;
+  border-color: #262626;
+  font-weight: bold;
+  opacity: .5;
+  font-size: 9px;
+}
+
+.preview-normal-cal-item > div {
+  border: 1px dashed #262626;
+}
+
+.preview-normal-cal-item > div > div > div.fc-event-title {
+  margin-left: 0;
+}
+
+.preview-warning-cal-item {
+  background-color: #f5f2e7;
+  color: #262626;
+  border-color: #262626;
+  font-weight: bold;
+  opacity: .5;
+}
+
+.preview-warning-cal-item > div {
+  background: url("../../../Content/Images/icon-warning.png") no-repeat scroll 0.5em 0.5em transparent;
+  border: 1px dashed #262626;
+}
+
+.preview-error-cal-item {
+  background-color: #ffeeed;
+  color: #262626;
+  border-color: #262626;
+  font-weight: bold;
+  opacity: .5;
+}
+
+.preview-error-cal-item > div {
+  border: 1px dashed #e91a1a;
+}
+
+.preview-fullopacity-cal-item {
+  opacity: 1;
+}
+
+.fc-day-today {
+  background-color: inherit !important;
+}
+
+.fc-header-toolbar.fc-toolbar {
+  display: none;
+}
+
+table.fc-col-header > thead > tr > th.fc-col-header-cell.fc-day {
+  padding-bottom: 0.75em;
+  padding-top: 0.75em;
+}
+
+.fc-col-header-cell-cushion {
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+  pointer-events: none;
+  cursor: default;
+}
+
+.fc-col-header-cell-cushion:hover {
+  text-decoration: none;
+}
+
+table.fc-col-header > colgroup, table.fc-col-header > thead > tr:first-child {
+  background: #f4f4f4;
+}
+
+.fc-event-title {
+  text-align: center;
+}
+
+div.fc-timegrid-slots > table > colgroup {
+  background: #f4f4f4;
+}
+
+table.fc-scrollgrid > thead > tr > th > div.fc-scroller-harness > div.fc-scroller {
+  overflow: hidden !important;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Schedule: List View                //////////  */
+/* ----------------------------------------------------------- */
+#advising-calendar .column-two {
+  border-left: 1px solid #999999;
+  border-top: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-bottom: .8em;
+}
+
+@media all and (max-width: 700px) {
+  #advising-calendar .column-two {
+    width: 100%;
+    float: none;
+    clear: both;
+    padding-top: 0;
+    border-right: 1px solid #999999;
+    border-top: none;
+  }
+}
+
+@media all and (max-width: 700px) {
+  #advising-calendar .column-seven {
+    width: 100%;
+    float: none;
+  }
+  #advising-calendar .section-contents {
+    margin-bottom: 0;
+  }
+  #schedule-data #advising-calendar .no-meeting-time {
+    border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
+  }
+}
+
+.schedule-list {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  transition: all .5s;
+}
+
+@media only screen and (min-width: 48rem) {
+  .schedule-list {
+    height: 46.077em;
+    padding-right: .846em;
+  }
+}
+
+.schedule-listitem {
+  padding: .875rem;
+  box-sizing: border-box;
+}
+
+.schedule-listitem:last-child {
+  margin-bottom: .846em;
+}
+
+.schedule-listitem-header {
+  padding: 0 0 .875rem 0;
+  text-align: left;
+  border: 0 none;
+}
+
+.schedule-listitem-plannedsectiondetails {
+  margin-bottom: 8px;
+}
+
+.schedule-listitem-plannedsectiondetails:last-child {
+  margin-bottom: 0;
+}
+
+#home-calendar .schedule-listitem-newbody {
+  border-radius: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.schedule-listitem-course-warning {
+  background-color: #f5f2e7;
+  color: #8a6a00;
+}
+
+.schedule-listitem-course-info {
+  background: #eff7ff;
+  color: #262626;
+}
+
+.schedule-listitem-course-warning a:hover {
+  text-decoration: none;
+}
+
+/* Approval Status Bars */
+.schedule-listitem-banner, .schedule-listitem-course-warning, .schedule-listitem-course-info, .schedule-listitem-approved, .schedule-listitem-denied, .schedule-listitem-authorized, .schedule-listitem-withdrawnsectionbanner, .schedule-availablesectionfullbanner, .schedule-availablesectionwaitlistbanner, .schedule-availablesectionfull, .schedule-listitem-registeredsectionbanner, .schedule-listitem-plannedsectionbanner {
+  margin: 0 -.875rem;
+  padding: .5rem .75rem;
+  font-weight: bold;
+}
+
+.schedule-listitem-approved {
+  color: #00af69;
+  background-color: #eaf7f2;
+}
+
+.schedule-listitem-denied {
+  color: #e91a1a;
+  background-color: #ffeeed;
+}
+
+.schedule-listitem-authorized {
+  color: #51abff;
+  background-color: #eff7ff;
+}
+
+.schedule-listitem-withdrawnsectionbanner {
+  color: #d42828;
+  background: #ffeeed;
+}
+
+.schedule-header-icon-hide {
+  display: none;
+}
+
+.schedule-availablesectionslist {
+  padding-bottom: .385em;
+  border-radius: 0 0 .538em .538em;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.schedule-availablesection {
+  color: #262626;
+  background-color: #f5f2e7;
+  border: 1px dashed #262626;
+  min-height: 25px;
+  margin-top: .5em;
+  padding-top: .5em;
+  padding-right: .7em;
+  padding-bottom: .5em;
+  padding-left: .7em;
+  cursor: pointer;
+  opacity: .5;
+}
+
+.schedule-availablesection:hover,
+.schedule-availablesection:focus {
+  background-color: #f5f2e7;
+  color: #000000;
+  opacity: 1;
+}
+
+.schedule-availablesectionfullbanner {
+  color: #d42828;
+  margin: 0;
+}
+
+.schedule-availablesectionwaitlistbanner {
+  color: #8a6a00;
+  margin: 0;
+}
+
+.schedule-availablesectionfull {
+  background-color: #ffeeed;
+  border: 1px dashed #262626;
+  color: #262626;
+  min-height: 25px;
+  cursor: pointer;
+  opacity: .5;
+  margin: .5rem 0rem 0rem 0rem;
+}
+
+.schedule-availablesectionfull:hover {
+  opacity: 1;
+}
+
+#home-calendar .schedule-listitem-registeredsection {
+  border-bottom: none;
+}
+
+.schedule-listitem-registeredsectionbanner {
+  color: #00804d;
+  background-color: #eaf7f2;
+}
+
+.schedule-listitem-plannedsectionbanner {
+  background-color: #f5f2e7;
+  color: #8a6a00;
+}
+
+.schedule-plannedsectionremove > a {
+  padding: 0;
+  display: inline-block;
+  float: right;
+}
+
+.schedule-plannedsectionremove .ui-icon:hover {
+  opacity: 0.7;
+}
+
+/* Section Footer */
+.schedule-listitem-footercollapsed,
+.schedule-listitem-footerexpanded,
+.schedule-listitem-footernoothersections {
+  border-top: 2px solid #e2e2e2;
+  padding: .7em 0;
+  margin-top: .625rem;
+}
+
+/* Meeting Information Toggle */
+.meeting-information {
+  padding: 0.5em 0;
+}
+
+.schedule-availablesection .meeting-information {
+  padding: 0;
+}
+
+.meeting-info-toggle-container {
+  padding-top: .625rem;
+  position: relative;
+}
+
+.meeting-info-toggle-container,
+.meeting-info-toggle-container:hover,
+.meeting-info-toggle-container:active,
+.meeting-info-toggle-container:focus,
+.view-other-sections-toggle,
+.view-other-sections-toggle:hover,
+.view-other-sections-toggle:active,
+.view-other-sections-toggle:focus {
+  color: #0074DB;
+  font-weight: bold;
+}
+
+/* Sections with no meeting time */
+#schedule-data .no-meeting-time {
+  border-top: 1px solid #999999;
+  border-left: 1px solid #999999;
+}
+
+.schedule-unplanned-section {
+  color: #8a6a00;
+  background-color: #f5f2e7;
+  display: block;
+  border-bottom: none;
+  clear: both;
+  font-size: .923em;
+  font-weight: bold;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+.schedule-unplanned-registered-section {
+  background: #eaf7f2;
+  color: #00af69;
+  font-weight: bold;
+  display: block;
+  border-bottom: none;
+  clear: both;
+  font-size: .923em;
+}
+
+.schedule-unplanned-section-content {
+  padding: .833rem;
+  border-top: 1px #999999 solid;
+}
+
+.schedule-unplanned-registered-section-content {
+  padding: .833rem;
+  border-top: 1px #999999 solid;
+}
+
+.schedule-unplanned-section-content a,
+.schedule-unplanned-section-content a:hover {
+  text-decoration: none;
+}
+
+.schedule-unplanned-section-content a {
+  color: #8a6a00;
+}
+
+.schedule-unplanned-registered-section-content button {
+  color: #00804d;
+}
+
+.schedule-unplanned-section-content td {
+  padding-right: .833em;
+  vertical-align: middle;
+}
+
+.schedule-unplanned-registered-section-content > span:first-child {
+  font-weight: bold;
+}
+
+.schedule-unplanned-section-content > input {
+  float: right;
+  margin-top: .333em;
+}
+
+.schedule-unplanned-section-error {
+  margin: -1px;
+  border: 1px solid #e91a1a;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Section Pagination                 //////////  */
+/* ----------------------------------------------------------- */
+.schedule-availablesectionslist-paging {
+  text-align: center;
+}
+
+@media (min-width: 768px) and (max-width: 960px) {
+  .schedule-sections-paging-curpage {
+    width: 1.667em;
+  }
+  .schedule-availablesectionslist-paging .pagination-next,
+  .schedule-availablesectionslist-paging .pagination-next-active {
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 767px) {
+  .schedule-sections-paging-curpage {
+    width: 1.583em;
+  }
+  .schedule-availablesectionslist-paging .pagination-next,
+  .schedule-availablesectionslist-paging .pagination-next-active {
+    margin-left: 0;
+  }
+}
+
+.schedule-sections-paging-pagecount {
+  padding-left: .583em;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Schedule: Course Details Dialog    //////////  */
+/* ----------------------------------------------------------- */
+.dashedborder,
+#schedule-data .schedule-listitem .dashedborder {
+  border-top: 1px dotted #bdbdbd;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  margin: 0.5em 0;
+}
+
+#schedule-data .schedule-listitem-registeredsection .dashedborder {
+  border-top: 1px dotted #d5d5d5;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  margin: 0.5em 0;
+}
+
+#coursedetails-yearsoffered {
+  line-height: 1.538em;
+  vertical-align: middle;
+  padding-left: 3.077em;
+}
+
+#schedplan-removingcoursename {
+  display: block;
+  font-weight: bold;
+  padding: 1em 0 0 0;
+}
+
+#coursedetails-title {
+  padding-top: .385em;
+  font-weight: bold;
+  outline: 0;
+}
+
+#coursedetails-description {
+  max-height: 200px;
+  overflow-y: auto;
+  line-height: normal;
+}
+
+#coursedetails-table {
+  width: 100%;
+}
+
+#coursedetails-table tr td {
+  padding-bottom: .231em;
+  padding-top: .231em;
+  vertical-align: top;
+}
+
+.details-freeformcredits {
+  float: left;
+  margin-right: 1.154em;
+}
+
+.details-varcreditshelp {
+  font-style: italic;
+}
+
+@media all and (max-width: 480px) {
+  html.touch #coursedetails-selectterm {
+    font-size: 1.368em;
+  }
+}
+
+.sectiondetails-grading-options-message {
+  color: #efc728;
+  font-weight: bold;
+  margin-left: 0.538em;
+  padding: .231em 0 .077em 1.846em;
+}
+
+@media all and (max-width: 480px) {
+  html.touch #sectiondetails-selectgrading {
+    font-size: 1.514em;
+  }
+}
+
+.comma-separator:not(:last-child):after {
+  content: ",";
+}
+
+#coursedetails-table .layout-table-cell {
+  display: block;
+}
+
+@media (min-width: 481px) {
+  #coursedetails-table .layout-table-cell {
+    display: table-cell;
+  }
+}
+
+/* Course Details Dialog Warnings */
+#coursedetails-yearswarnings {
+  border: 1px solid #efc728;
+  background-color: #f5f2e7;
+  min-height: 20px;
+  padding: .154em;
+  margin-top: .385em;
+  vertical-align: middle;
+}
+
+#coursedetails-dialogcontainer #coursedetails-warnings {
+  background-color: #f5f2e7;
+  border: 1px solid #efc728;
+  margin-top: .385em;
+  padding: .769em;
+  min-height: 0;
+}
+
+#coursedetails-dialogcontainer .coursedetails-termsofferedicon {
+  background-image: url("../../../Content/Images/icon-warning.png");
+  background-position: left center;
+  background-repeat: no-repeat;
+  float: left;
+  height: 1.077em;
+  margin-left: 0;
+  padding-right: 1.077em;
+  width: 1.077em;
+}
+
+#sectiondetails-sectionfullwarning {
+  background-color: #ffeeed;
+  border: 1px solid #e91a1a;
+  padding: .538em;
+  min-height: 10px;
+  margin-bottom: .615em;
+}
+
+@media all and (max-width: 480px) {
+  #coursedetails-dialogcontainer, .ui-dialog .ui-dialog-content {
+    border-top: 0;
+  }
+}
+
+/* ----------------------------------------------------------- */
+/* //////////  Schedule - Printable                //////////  */
+/* ----------------------------------------------------------- */
+#print-schedule-header img {
+  max-width: 20%;
+}
+
+#print-schedule-details-table td.schedule-details-table-registered {
+  border: 1px solid #bdbdbd;
+  background-color: #eaf7f2;
+  color: #444444;
+}
+
+#print-schedule-details-table td.schedule-details-table-planned {
+  border: 1px solid #bdbdbd;
+  background-color: #f5f2e7;
+}
+
+/* Override styling form the main calendar */
+#print-schedule-body .planned-conflict-cal-item > div, #print-schedule-body .planned-cal-item > div, #print-schedule-body .registered-cal-item > div {
+  background: transparent;
+}
+
+/* Override styling form the main calendar */
+#print-schedule-body .planned-conflict-cal-item, #print-schedule-body .planned-cal-item {
+  color: #000000;
+}
+
+/* Override styling form the main calendar */
+#print-schedule-body .schedule-unplanned-section-content {
+  background: transparent;
+  padding: .305em;
+  font-size: .8em;
+  border: 1px solid #bdbdbd;
+}
+
+/* Override styling form the main calendar */
+#print-schedule-body .schedule-unplanned-section {
+  color: #000000;
+}
+
+/* Override styling form the main calendar */
+#print-schedule-body .fc-event-title {
+  margin-left: 3px;
+}
+
+.schedule-details-table-registered {
+  background-color: #eaf7f2;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.schedule-details-table-planned {
+  background-color: #f5f2e7;
+  color: #000000;
+  font-weight: bold;
+  border: 1px solid #efc728;
+}
+
+.schedule-prints-comments-details-table {
+  border-top: 1px solid white;
+  border-right: 1px solid #bdbdbd;
+  border-bottom: 1px solid #bdbdbd;
+}
+
+.course-placeholder {
+  background: #eff7ff;
+}
+
+/* Back to Course Catalog link */
+#catalog-result .backlink {
+  padding-bottom: .857em;
+}
+
+@media all and (max-width: 700px) {
+  .schedule-calendar {
+    border-right: none;
+  }
+  .schedule-list {
+    border-bottom: none;
+  }
+  .advising-term-data .schedule-calendar {
+    width: auto;
+    float: none;
+  }
+}
+
+/* List & Calendar Tab Nav */
+#advising-list > .esg-table {
+  table-layout: auto;
+}
+
+#advising-list > .esg-table > caption {
+  border: none;
+}
+
+#advising-list > .esg-table > caption .esg-icon__label {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  #advising-list > .esg-table > caption .esg-icon__label {
+    display: inline-block;
+  }
+}
+
+#advising-list > .esg-table .esg-table-head__row {
+  border: none;
+}
+
+#advising-list > .esg-table .esg-table-head__row .esg-table-head__th:first-child {
+  border-left: none;
+}
+
+#advising-list > .esg-table .esg-table-head__row .esg-table-head__th:last-child {
+  border-right: none;
+}
+
+#advising-list > .esg-table .esg-table-body__row {
+  border: none;
+}
+
+#advising-list > .esg-table .esg-table-body__row .esg-table-body__td:first-child {
+  border-left: none;
+}
+
+#advising-list > .esg-table .esg-table-body__row .esg-table-body__td:last-child {
+  border-right: none;
+}
+
+#advising-list > .esg-table .esg-checkbox {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#advising-list > .esg-table .esg-checkbox label {
+  margin-right: 1.25rem;
+}
+
+#advising-list > .esg-table thead th:first-child {
+  width: 110px;
+}
+
+#advising-list > .esg-table thead th:nth-child(2) {
+  width: 80px;
+}
+
+@media only screen and (min-width: 48rem) {
+  #advising-list > .esg-table thead th:nth-child(2) {
+    width: 90px;
+  }
+}
+
+#advising-list > .esg-table thead th:nth-child(8) {
+  width: 50px;
+}
+
+.css-protected-course-banner {
+  color: #efc728;
+  font-weight: bold;
+  margin-left: .5rem;
+}
+
+.drop-wrapper > h3,
+.drop-wrapper > fieldset {
+  border-bottom: 1px solid #e2e2e2;
+  margin-bottom: .75em;
+  padding-bottom: .75em;
+}
+
+.drop-wrapper > h4 {
+  font-weight: bold;
+  padding-bottom: .5em;
+}
+
+.drop-wrapper > ul {
+  padding-bottom: 1em;
+}
+
+.drop-dialog-list span {
+  padding-left: 1.25rem;
+}
+
+@media all and (max-width: 26.25rem) {
+  .column-two,
+  .column-three,
+  .column-four,
+  .column-five,
+  .column-six,
+  .column-seven,
+  .column-eight,
+  .esg-page-wrapper {
+    float: none;
+  }
+  .column-four {
+    width: auto;
+  }
+}
+
+.drop-dialog-list-contents {
+  padding-top: 0.5rem;
+}
+
+.more-ellipse {
+  width: 14px;
+}
+
+.remove-course-button {
+  padding: 0px;
+  margin: -10px 5px 0px 0px;
+  float: right;
+}
+
+.word-wrap {
+  word-wrap: break-word;
+}
+
+.time-of-day-course-search-filter {
+  margin-right: -0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Print-specific styling for course schedule Status cells*/
+@media print {
+  #print-schedule-details-table td.schedule-details-table-registered,
+  #print-schedule-details-table td.schedule-details-table-planned {
+    border: none;
+    background-color: transparent;
+    color: #797979;
+    font-weight: normal;
+  }
+}
+
+/* Color variables */
+/* Non-color variables will be placed here */
+/* Copied from EDS for use in Self-Service .scss files */
+/* Non-color variables will be placed here */
+/*Copyright 2018 Ellucian Company L.P. and its affiliates*/
+/* Color variables */
+/* Non-color variables will be placed here */
+.student-grades-final-grade p:nth-child(2) {
+  color: #e91a1a;
+}
+
+.student-grades-course-name p:first-child {
+  font-weight: bold;
+}
+
+.student-grades-course-name p:nth-child(2),
+.student-grades-course-name > div:nth-child(2) > p {
+  font-weight: normal;
+  font-size: .875rem;
+}
+
+@media all and (max-width: 767px) {
+  #print-grade-label {
+    display: none;
+  }
+}
+
+@media all and (min-width: 769px) {
+  .student-programs-info .program-names {
+    margin-left: -5px;
+    margin-top: -2px;
+    margin-bottom: 10px;
+  }
+  #student-grades-ul li:first-child {
+    padding-top: 7px;
+  }
+  .student-grade-table-small {
+    display: none;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .student-grade-table {
+    display: none;
+  }
+  #print-grades-link {
+    margin-top: .5rem;
+    margin-right: -1rem;
+  }
+  .student-grade-table-small {
+    position: relative;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+  }
+}
+
+.student-programs-info {
+  border: 1px solid transparent;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.student-programs-info td {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  border: none;
+  padding-right: 10px;
+  margin-left: .675rem;
+  text-align: left;
+}
+
+.term-display-small, .grade-display-small {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.term-display-small li, .grade-display-small li {
+  float: left;
+}
+
+.term-display-small li:last-child {
+  border-right: 1px solid #bdbdbd;
+}
+
+.grade-display-small {
+  margin-top: 0px;
+}
+
+.program-list-item:before {
+  content: "• ";
+  font-size: 20px;
+  color: #444444;
+}
+
+.square {
+  height: 25px;
+  width: 27px;
+  background-color: #fff;
+  text-align: center;
+  border: 1px solid #979797;
+  border-right: none;
+  color: #444444;
+}
+
+.square-no-border {
+  height: 25px;
+  width: 27px;
+  background-color: #fff;
+  text-align: center;
+  border: none;
+  border-right: none;
+  color: #000;
+  margin-top: 0px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.align-top {
+  vertical-align: top;
+}
+
+#print-grades-link {
+  position: relative;
+  bottom: 2rem;
+  right: 1rem;
+}
+
+@media only screen and (min-width: 48rem) {
+  #student-grades #print-grades-link {
+    position: relative;
+    bottom: 4.25rem;
+    right: .5rem;
+  }
+  #advising-grades-data {
+    margin-top: 1.5rem;
+  }
+  #advising-grades-data #print-grades-link {
+    display: none;
+  }
+}
+
+.strongGradeTerms {
+  font-weight: 600 !important;
+}
+
+.hrTopStyle {
+  border-color: #9b9b9b;
+}
+
+#printstudentgradedata {
+  margin: 0.1rem;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+@media only screen and (max-width: 48rem) {
+  #print-section-header img {
+    max-width: 60%;
+  }
+}
+
+#print-section-header {
+  padding-top: 1em;
+  margin-bottom: .313em;
+}
+
+#print-section-header img {
+  max-width: 20%;
+}
+
+span.filter-button-span {
+  padding: 0;
+}
+
+input#coursecatalog-filter {
+  background: url("../../../Content/Images/search-icon.png") no-repeat scroll 0.75rem center #ffffff;
+  width: 18.75rem;
+}
+
+input#coursecatalog-filter:focus {
+  font-style: normal;
+  color: #000000;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  input#coursecatalog-filter {
+    background-image: url("../../../Content/Images/search-icon@2x.png");
+    background-size: 11px;
+  }
+}
+
+input#coursecatalog-filter, .drop-courses__list {
+  padding-left: 1.96em;
+}
+
+#addedcourse-message {
+  z-index: 999;
+}
+
+#addedcourse-coursename {
+  font-weight: bold;
+}
+
+@media all and (max-width: 480px) {
+  input#coursecatalog-filter {
+    display: block;
+    margin-top: 0.5em;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+
+/* ----------------------------------------------------------- */
+/* //////////  Course Catalog: Search Results     ///////////  */
+/* ----------------------------------------------------------- */
+/* Mobile Filter hide/show styling*/
+@media all and (max-width: 769px) {
+  #course-catalog-show-filters-button {
+    display: none;
+  }
+}
+
+#course-catalog-hide-filters-button {
+  float: right;
+  margin-right: 0.325rem;
+}
+
+@media all and (max-width: 1177px) {
+  #course-catalog-hide-filters-button {
+    float: none;
+  }
+}
+
+.results-pane-max {
+  width: 100%;
+}
+
+/* ------------------------------------------------------------------ */
+/* //////////   Course Catalog: Filter Results           ///////////  */
+/* ------------------------------------------------------------------ */
+/* Parent Wrapper - used with esg-page-wrapper */
+@media all and (max-width: 769px) {
+  #catalog-result .esg-col-sm-3 {
+    display: none;
+  }
+}
+
+#catalog-result .esg-col-sm-3 .filter-header {
+  line-height: 2.0rem;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Advisor Notes                      //////////  */
+/* ----------------------------------------------------------- */
+/* Student UI */
+.advisor-buttons {
+  position: absolute;
+  right: 13px;
+  top: 8px;
+}
+
+.advisor-contact {
+  margin-bottom: 0.853em;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Advisee Card                       //////////  */
+/* ----------------------------------------------------------- */
+.advising-display-list span:not(:first-of-type):after {
+  content: ',';
+}
+
+.advising-display-list span:last-of-type:after {
+  content: '';
+}
+
+#advising-notes-compose-box,
+#restricted-notes-compose-box {
+  width: 100%;
+  min-height: 125px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  position: relative;
+  margin: 0px;
+  padding-right: 1px;
+  top: 0px;
+  left: 0px;
+  resize: none;
+  max-height: 125px;
+}
+
+#advising-note-information,
+#restricted-note-information {
+  max-width: 100%;
+}
+
+#restricted-notes-compose-wrapper #advising-notes-compose-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* Slide panel */
+#split-panel-left {
+  display: flex;
+  flex-direction: column;
+  padding-right: 1rem;
+  width: 100%;
+}
+
+@media only screen and (max-width: 62rem) {
+  #split-panel-left {
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: none;
+    background: #fff;
+    box-shadow: none;
+    padding: 5%;
+    justify-content: flex-start;
+  }
+}
+
+#split-panel-right {
+  display: flex;
+  flex-direction: column;
+  padding-left: .625rem;
+  border-left-color: #e2e2e2;
+  border-left-style: solid;
+  border-left-width: 0.0625rem;
+  width: 100%;
+}
+
+@media only screen and (max-width: 62rem) {
+  #split-panel-right {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: none;
+    border-color: #e2e2e2;
+    border-style: solid;
+    border-width: 0.0625rem;
+    background: #fff;
+    box-shadow: none;
+    padding: 5%;
+    justify-content: flex-start;
+    z-index: 1210;
+    overflow-y: scroll;
+  }
+}
+
+#split-panel-header-compose-restricted-notes,
+#split-panel-header-view-restricted-notes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media only screen and (max-width: 62rem) {
+  #split-panel-header-compose-restricted-notes,
+  #split-panel-header-view-restricted-notes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+@media only screen and (max-width: 62rem) {
+  #split-panel-title-left-view-advising-note,
+  #split-panel-title-left-compose-advising-note,
+  #split-panel-title-right-view-restricted-notes,
+  #split-panel-title-right-compose-restricted-notes {
+    max-width: 50%;
+  }
+}
+
+#split-panel-action-left {
+  margin-top: .625rem;
+  line-height: 1.6rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: #5353D1;
+  position: absolute;
+  margin-left: 85%;
+}
+
+@media only screen and (max-width: 62rem) {
+  #split-panel-action-left {
+    margin-left: 65%;
+  }
+}
+
+#split-panel-action-right {
+  margin-top: .625rem;
+  line-height: 1.6rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: #5353D1;
+  position: absolute;
+  margin-left: 45%;
+}
+
+@media only screen and (max-width: 62rem) {
+  #split-panel-action-right {
+    margin-left: 75%;
+  }
+}
+
+/* Advisor UI */
+#advising-notes-view-inner-wrapper,
+#restricted-notes-view-inner-wrapper {
+  border: 1px solid #999999;
+  max-height: 100%;
+}
+
+.advising-notes-text {
+  padding: 1em;
+  border-top: 1px solid #d5d5d5;
+}
+
+.advising-notes-text:first-child {
+  border-top: none;
+}
+
+.advising-notes-text-message {
+  line-height: 1.3em;
+  line-break: anywhere;
+}
+
+.advising-notes-text-timestamp {
+  color: #6c6c6c;
+  padding: 1em 0 0;
+  text-shadow: 0 -1px 0 #ffffff;
+}
+
+#advisor-advising-notes-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+#advising-notes-compose-save,
+#restricted-notes-compose-save {
+  margin-top: .8em;
+}
+
+@media all and (max-width: 768px) {
+  .drop-dialog-list > esg-row {
+    border-bottom: 1px solid #999999;
+  }
+}
+
+input[type="button"]#advisor-notes {
+  background: transparent url(Images/advisor-notes.png) no-repeat left 4px;
+  filter: none;
+  border: none;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #333333;
+  text-shadow: none;
+  height: 22px;
+  padding: 0 12px 0 19px;
+  float: left;
+  cursor: pointer;
+}
+
+@media all and (max-width: 480px) {
+  #advisor-notes {
+    display: none;
+  }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  input#advisor-notes[type="button"] {
+    background-image: url("Images/advisor-notes@2x.png");
+    background-size: 14px;
+  }
+}
+
+input[type="button"]#advisor-notes:active,
+input[type="button"]#advisor-notes:hover {
+  top: 0;
+  box-shadow: none;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Advisor Approvals - Advisee List   //////////  */
+/* ----------------------------------------------------------- */
+/* Advisee Search & Listing */
+#advising-search-by {
+  padding-left: 1em;
+}
+
+@media all and (max-width: 480px) {
+  #advising-search-by {
+    padding-left: 0;
+  }
+}
+
+/* Advisee List Photo */
+#advising-adviseelist {
+  table-layout: auto;
+}
+
+@media (min-width: 48rem) and (max-width: 75rem) {
+  #advising-adviseelist thead,
+  #unassigned-adviseelist thead,
+  #assigned-to-others-adviseelist thead,
+  #my-adviseelist thead {
+    display: none;
+  }
+  #advising-adviseelist tbody td,
+  #unassigned-adviseelist tbody td,
+  #assigned-to-others-adviseelist tbody td,
+  #my-adviseelist tbody td {
+    border: none;
+    display: block;
+    vertical-align: top;
+    overflow: auto;
+  }
+  #advising-adviseelist tbody td:before,
+  #unassigned-adviseelist tbody td:before,
+  #assigned-to-others-adviseelist td:before,
+  #my-adviseelist td:before {
+    content: attr(data-th) " ";
+    display: inline-block;
+    font-weight: bold;
+    width: 40%;
+    text-align: left;
+  }
+  .layout-table-cell {
+    width: 60%;
+    float: right;
+    text-align: left;
+  }
+  .adviseephoto {
+    margin-left: -0.4rem;
+  }
+}
+
+@media (min-width: 75rem) {
+  .adviseepending {
+    text-align: left;
+  }
+  .adviseeicon {
+    text-align: center;
+  }
+}
+
+.esg-table .adviseephoto,
+.esg-table .adviseeicon,
+.esg-table .adviseeprogram,
+.esg-table .lastadvisedon,
+.esg-table .advisee-advisors {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  .esg-table .adviseephoto,
+  .esg-table .adviseeicon,
+  .esg-table .adviseeprogram,
+  .esg-table .lastadvisedon,
+  .esg-table .advisee-advisors {
+    display: table-cell;
+  }
+}
+
+/* Search and Filter Classes */
+#advising-global-searchbutton {
+  position: absolute;
+  left: -1000em;
+  width: 1px;
+  height: 1px;
+}
+
+.advising-message {
+  text-align: center;
+  font-size: 1.154em;
+  font-weight: bold;
+  color: #767676;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1.6em;
+  padding-top: .667em;
+}
+
+#advising-content-nav li.ui-state-default, #schedplan-tabs li.ui-state-default {
+  margin-right: 0;
+  border-right: 1px solid #999999;
+}
+
+#advising-content-nav li.ui-state-active, #schedplan-tabs li.ui-state-active {
+  background: #ffffff;
+  filter: none;
+}
+
+#advising-timeline--no-terms {
+  padding: .75rem;
+}
+
+#advising-catalog .section-wrapper {
+  border-left: 1px solid #bdbdbd;
+  border-bottom: 1px solid #bdbdbd;
+  border-right: 1px solid #bdbdbd;
+}
+
+@media only screen and (max-width: 48rem) {
+  #advising-main .responsiveTable tr {
+    margin-top: 1rem;
+  }
+  #advising-main .responsiveTable td:before {
+    width: 30%;
+  }
+}
+
+@media all and (max-width: 769px) {
+  #advising-catalog .column-two {
+    display: none;
+  }
+}
+
+#no-programs-notification {
+  border: none;
+}
+
+.degree-plan-archive-panel-link {
+  text-align: right;
+  margin-bottom: 1rem;
+}
+
+#plan-archives-table th {
+  padding: 0.923em 0 0.923em 0.923em;
+}
+
+#plan-archives-table th span {
+  line-height: 1;
+}
+
+#plan-archives-table th:first-child {
+  width: 30%;
+}
+
+#plan-archives-table th:nth-child(2) {
+  width: 30%;
+}
+
+#plan-archives-table th:nth-child(3) {
+  width: 40%;
+}
+
+@media all and (max-width: 480px) {
+  #plan-archives-table th:first-child {
+    width: 35%;
+  }
+  #plan-archives-table th:nth-child(2) {
+    width: 25%;
+  }
+}
+
+@media all and (max-width: 400px) {
+  #plan-archives-table th:first-child {
+    width: 37%;
+  }
+  #plan-archives-table th:nth-child(3) {
+    width: 28%;
+  }
+}
+
+/* Advisee Header Info Bar */
+.advising-review-button {
+  float: right;
+}
+
+#last-reviewed-info {
+  float: right;
+}
+
+#student-advising #last-reviewed-info {
+  float: right;
+  clear: none;
+  font-size: 1em;
+  text-align: left;
+}
+
+#last-advised-info {
+  float: right;
+}
+
+#student-advising #last-advised-info {
+  float: right;
+  clear: none;
+  font-size: 1em;
+  text-align: left;
+}
+
+#student-advising #last-requested-info {
+  float: right;
+  clear: none;
+  font-size: 1em;
+  text-align: left;
+}
+
+@media all and (max-width: 480px) {
+  #contact-advisor {
+    display: none;
+  }
+}
+
+#email-my-advisees-container > email-all > a {
+  float: right;
+}
+
+#email-my-advisees-container {
+  flex-basis: 15%;
+}
+
+/*Export to CSV styles*/
+@media only screen and (min-width: 48rem) {
+  .export-button__label {
+    display: inherit;
+  }
+}
+
+.esg-dropdown__menu-item.css-dropdown__menu-item,
+.esg-dropdown__menu-item.css-dropdown__menu-item:hover,
+.esg-dropdown__menu-item.css-dropdown__menu-item:visited,
+.esg-dropdown__menu-item.css-dropdown__menu-item:active,
+.esg-dropdown__menu-item.css-dropdown__menu-item:focus {
+  width: auto;
+  padding: 0 1em;
+}
+
+@media all and (max-width: 26.25rem) {
+  #export-my-advisees-container {
+    display: none;
+  }
+  #email-my-advisees-container {
+    flex-basis: auto;
+  }
+}
+
+.advising-email-text {
+  margin-left: 3rem;
+}
+
+.advisee-data-column {
+  width: 50%;
+}
+
+/* Approval Status List */
+.advising-pendingicon {
+  background: url("Images/requested.png") no-repeat 0 0;
+  height: 1.333em;
+  width: 1.333em;
+  float: left;
+  margin: 0 .583em 0 0;
+}
+
+/* Term Display */
+#advising-terms #schedule-data hr {
+  display: none;
+}
+
+/* Timeline Display */
+#advising-content-nav > #advising-timeline {
+  padding: 0;
+}
+
+#export-my-assignments-container {
+  position: absolute;
+  right: 0.52rem;
+  top: 1.8rem;
+}
+
+@media all and (max-width: 26.25rem) {
+  #export-my-assignments-container {
+    display: none;
+  }
+}
+
+/* Progress Display */
+#advising-activeadvisee-programs {
+  margin-bottom: 1em;
+}
+
+#advising-terms #schedule-data .no-meeting-time {
+  border-top: none;
+  border-right: 1px solid #999999;
+}
+
+@media all and (max-width: 700px) {
+  .advising-term-data .schedule-calendar {
+    width: auto;
+    float: none;
+  }
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   My Progress                        //////////  */
+/* ----------------------------------------------------------- */
+#program-selection {
+  margin-bottom: .625rem;
+}
+
+@media only screen and (min-width: 62rem) {
+  #program-selection {
+    margin-bottom: 0;
+  }
+}
+
+#program-selection #current-program {
+  margin-left: .625rem;
+}
+
+#program-selection #current-program > span {
+  display: table-row;
+}
+
+@media all and (max-width: 480px) {
+  #whatif-wrapper, #load-sample-plan-button {
+    display: none;
+  }
+}
+
+/* Load a Course Plan Dialog */
+#program-description-dialog-wrapper {
+  padding: 1em;
+  background: #ffffff;
+  border: 1px solid #d5d5d5;
+  max-height: 250px;
+  overflow-y: scroll;
+}
+
+/* Fastest Path Programs */
+.related-programs table {
+  margin: 0.8em 0 0;
+  width: 100%;
+}
+
+.related-programs table .esg-radio {
+  margin-bottom: 0;
+}
+
+.related-programs table th {
+  border-top: 1px solid #d5d5d5;
+  background: #f4f4f4;
+  text-align: left;
+  padding: 0.4em 1em;
+}
+
+.related-programs table th:nth-of-type(2) {
+  width: 35%;
+}
+
+.related-programs table tbody:nth-of-type(2) tr:last-of-type {
+  border-bottom: none;
+}
+
+.related-programs table tbody:nth-of-type(2) td:nth-of-type(2) {
+  padding: .4em 1em;
+}
+
+.related-programs table td {
+  padding: 0 .7em;
+}
+
+.related-programs table tbody:nth-of-type(2) tr:hover {
+  background: #e2e2e2;
+}
+
+.related-programs table tbody:nth-of-type(2) td:nth-of-type(1) {
+  padding-right: 0;
+}
+
+#current-program-text + button {
+  margin-left: .5rem;
+}
+
+.requirements-loading-programs > .esg-spinner {
+  width: 2rem;
+  height: 2rem;
+  position: inherit;
+}
+
+input#program-filter {
+  background: url("../../../Content/Images/search-icon.png") no-repeat scroll 0.75rem center #ffffff;
+}
+
+#sample-plan-filternoresults {
+  background: #d5d5d5;
+  border-top: 1px solid #bdbdbd;
+  border-bottom: 1px solid #bdbdbd;
+  padding: 0.8em 1em;
+}
+
+#programs-filternoresults {
+  background: #d5d5d5;
+  padding: 0.8em 1em;
+}
+
+.preview-tracks-table {
+  width: 100%;
+}
+
+.preview-tracks-table__td--95 {
+  width: 95%;
+}
+
+.preview-terms-table {
+  width: 100%;
+}
+
+.preview-terms-table th {
+  background: #e2e2e2;
+  font-weight: bold;
+  padding: .308em .692em;
+  border-top: 1px solid #ffffff;
+}
+
+.preview-terms-table th:nth-of-type(1) {
+  width: 55%;
+  text-align: left;
+}
+
+.preview-terms-table th:nth-of-type(2) {
+  width: 30%;
+  text-align: center;
+}
+
+.preview-terms-table th:nth-of-type(3) {
+  width: 15%;
+  text-align: right;
+}
+
+.preview-terms-table td {
+  border-bottom: 1px solid #e2e2e2;
+  padding: .308em .692em;
+  line-height: 1.2;
+}
+
+.preview-terms-table td:nth-of-type(2) {
+  text-align: center;
+}
+
+.preview-terms-table td:nth-of-type(3) {
+  text-align: right;
+}
+
+.preview-terms-table tr:last-of-type td {
+  border-bottom: none;
+}
+
+.checkmark {
+  background: url("../../../Content/Images/checkmark.png") no-repeat scroll center center transparent;
+  display: inline-block;
+  height: .923em;
+  text-indent: -1000em;
+  vertical-align: middle;
+  width: 1.077em;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .checkmark {
+    background-image: url("../../../Content/Images/checkmark@2x.png");
+    background-size: 14px;
+  }
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   At a Glance                        //////////  */
+/* ----------------------------------------------------------- */
+.program-section-header {
+  display: none;
+}
+
+.program-requirements-header-text {
+  display: inline;
+}
+
+.program-requirements-expand-all {
+  font-size: .875rem;
+  position: relative;
+  top: -0.20rem;
+  font-weight: bold;
+}
+
+.program-requirements-header-link {
+  display: block;
+}
+
+.program-requirements-header-link-mobile {
+  display: none;
+}
+
+.program-requirements-expand-all-label {
+  position: absolute;
+  margin-left: 4.75rem;
+  margin-top: -1rem;
+  cursor: pointer;
+}
+
+.btn-padding-top {
+  padding-top: 1rem;
+}
+
+.view-program-labels-padding {
+  padding-top: 0.75rem;
+  padding-bottom: 0.3125rem;
+}
+
+.view-program-dropdown-margin-left {
+  margin-left: 0;
+}
+
+.active-program-date-display {
+  display: inline-block;
+}
+
+#update-program hr {
+  margin: 0px -0.625rem;
+  border-top-width: 0.1rem;
+}
+
+.bold-labels {
+  font-weight: 700;
+}
+
+.updateProgram-date-fields {
+  width: 10.63rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.updateProgram-dropdown-field-width {
+  width: 18.125rem;
+}
+
+#active-programs-list li label[for="datepickerInput"] {
+  display: none;
+}
+
+#active-programs-list > li:nth-child(1) > div.show {
+  display: block;
+}
+
+@media all and (max-width: 26.25rem) {
+  #active-programs-list li > div:nth-child(2) {
+    padding-top: 0.625rem;
+  }
+  #active-programs-list li label[for="datepickerInput"] {
+    display: inline-block;
+  }
+  #active-programs-list li div.show {
+    display: none;
+  }
+  .esg-list-group__item {
+    padding-left: 0;
+  }
+}
+
+@media only screen and (min-width: 48rem) {
+  .program-section-header {
+    display: block;
+  }
+}
+
+@media all and (max-width: 48rem) {
+  .program-section-header {
+    display: block;
+  }
+  .program-requirements-header-text, .program-requirements-header-link {
+    display: none;
+  }
+  .program-requirements-header-link-mobile {
+    display: block;
+    margin-left: 2.25rem;
+  }
+  .program-requirements-expand-all {
+    margin-left: -0.40rem;
+  }
+  .program-requirements-expand-all-label {
+    position: absolute;
+    margin-left: 0.25rem;
+    margin-top: 0rem;
+    cursor: pointer;
+  }
+}
+
+/* Program Stats */
+@media all and (max-width: 480px) {
+  div[id^="programs-ataglance"], div[id^="program-requirements"] {
+    padding: 0;
+  }
+}
+
+.program-description-dialog p {
+  line-height: 1.5;
+}
+
+.total-credits-wrapper {
+  float: left;
+  width: 100%;
+}
+
+.total-credits {
+  line-height: 1.2em;
+  padding-bottom: .1em;
+  margin-top: 1em;
+}
+
+.total-credits-school-wrapper {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.total-credits-school {
+  line-height: 1.2em;
+  margin-top: 1em;
+  padding-bottom: .1em;
+}
+
+.total-credits-school span, .total-credits span {
+  font-weight: normal;
+  padding-left: 0.5em;
+}
+
+@media (min-width: 901px) and (max-width: 960px) {
+  .total-credits {
+    padding-left: 0;
+  }
+  .total-credits-school {
+    padding-left: 2.5%;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 900px) {
+  .total-credits-wrapper {
+    float: left;
+  }
+  .total-credits {
+    padding-left: 0;
+    padding-bottom: 1%;
+    float: none;
+    width: auto;
+  }
+  .total-credits-school-wrapper {
+    float: left;
+  }
+  .total-credits-school {
+    padding-left: 0;
+    padding-bottom: 1%;
+    float: none;
+    width: auto;
+  }
+}
+
+@media all and (max-width: 699px) {
+  .total-credits-wrapper .column-two, .total-credits-school-wrapper .column-two {
+    float: none;
+    width: auto;
+  }
+  .total-credits-wrapper, .total-credits-school-wrapper {
+    padding-bottom: 2%;
+  }
+  .total-credits {
+    padding-left: 0;
+    padding-bottom: .5%;
+    float: none;
+    width: auto;
+  }
+  .total-credits-school-wrapper {
+    padding-left: 0;
+  }
+  .total-credits-school {
+    padding-left: 0;
+    padding-bottom: .5%;
+    float: none;
+    width: auto;
+  }
+}
+
+.gpa-too-low {
+  color: #e91a1a;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.evaluation-notice-line > span {
+  word-wrap: break-word;
+  display: block;
+  font-weight: normal;
+  white-space: pre-wrap;
+}
+
+.evaluation-notice-block {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #999999;
+}
+
+.evaluation-notice-block:last-child {
+  border-bottom: 0 none;
+}
+
+#get-evaluation-notices-link, #evaluation-notices-link {
+  display: block;
+  margin-bottom: 1em;
+}
+
+/* Progress Bar */
+.program-stats-wrapper .ui-multiprogressbar-valuetext {
+  line-height: 2em;
+  font-weight: normal;
+}
+
+.program-stats-wrapper .completed-progress {
+  background: #00804d;
+  position: relative;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.progressbar-wrapper .completed-progress {
+  background: #00804d;
+  color: #ffffff;
+  position: relative;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.progressbar-wrapper .inprogress-progress {
+  background: #eaf7f2;
+  color: #000000;
+  position: relative;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.progressbar-wrapper .planned-progress {
+  background: #efc728;
+  color: #000000;
+  position: relative;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.progressbar-wrapper-top-padding {
+  padding-top: 0;
+}
+
+@media all and (max-width: 26.25rem) {
+  .progressbar-wrapper-top-padding {
+    padding-top: 0.8125rem;
+  }
+}
+
+.program-stats-wrapper .completed-progress,
+.program-stats-wrapper .inprogress-progress {
+  text-decoration: none;
+}
+
+.program-stats-wrapper .completed-progress {
+  color: #eaf7f2;
+  margin: 0;
+}
+
+.program-stats-wrapper .inprogress-progress {
+  color: #00804d;
+  background: #eaf7f2;
+  position: relative;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.program-stats-wrapper .planned-progress {
+  background: #f5f2e7;
+  color: #8a6a00;
+  position: relative;
+  border: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.progress-text-right {
+  padding: 0 1rem;
+  line-height: 2em;
+  /* should match progress bar height */
+  position: absolute;
+  right: 2rem;
+  z-index: 0;
+  float: right;
+}
+
+.progress-text-right a:link,
+.progress-text-right a:visited,
+.progress-text-right a:active,
+.progress-text-right a:hover {
+  color: #333333;
+  text-decoration: none;
+}
+
+.ui-progressbar-value a {
+  display: block;
+  width: 100%;
+}
+
+/* Description Dialog */
+.program-description-dialog span:before {
+  content: '';
+  display: inline-block;
+}
+
+.program-description-dialog span {
+  line-height: .769em;
+  display: block;
+  white-space: pre-line;
+}
+
+.dialog-throbber-wrapper {
+  border-top: 1px solid #d5d5d5;
+  margin-top: 0.7em;
+  padding: 1.5em;
+  text-align: center;
+}
+
+.dialog-throbber-wrapper > .esg-spinner {
+  width: 2rem;
+  height: 2rem;
+  position: inherit;
+}
+
+/* Requirements */
+@media all and (max-width: 480px) {
+  .course-catalog-back {
+    background-color: #767676;
+    float: none;
+    margin: 0;
+    padding: .625rem 0;
+  }
+  .course-catalog-back a,
+  .course-catalog-back a:hover {
+    background-color: #767676;
+    font-size: 1em;
+    font-weight: bold;
+    color: #ffffff;
+    padding-left: 1.154em;
+    background-image: none;
+  }
+  .course-catalog-back a:before {
+    content: "";
+    display: block;
+    float: left;
+    width: .462em;
+    height: .462em;
+    position: relative;
+    border: 2px solid #ffffff;
+    margin: 2px .769em 0 0;
+    border-width: 2px 2px 0 0;
+    transform: rotate(-135deg);
+  }
+}
+
+.requirements-loading-programs {
+  text-align: center;
+}
+
+.requirements input.expand {
+  float: right;
+  clear: both;
+  margin: 0.3em 0 1.07em 0;
+}
+
+.requirement {
+  margin: 0 0 1.077em 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.requirement > h3 {
+  background-color: #e2e2e2;
+}
+
+@media all and (max-width: 480px) {
+  .requirement .requirement-gpa {
+    display: none;
+  }
+}
+
+.requirement-gpa > span {
+  padding-right: 5px;
+}
+
+.requirements li .ui-state-active a {
+  color: #ffffff;
+}
+
+.requirement > .ui-accordion-content {
+  background: #ffffff;
+  text-shadow: none;
+  border-left: 2px solid #767676;
+  border-right: 2px solid #767676;
+  border-bottom: 2px solid #767676;
+}
+
+/* Requirement Directive */
+.requirement-directive-complete {
+  background-color: #eaf7f2;
+  color: #000000;
+  padding: .6em .9em .6em 1.5em;
+  border-bottom: 1px solid #00804d;
+}
+
+.requirement-directive-complete > .requirement-directive-remaining {
+  color: #00804d;
+  font-weight: bold;
+}
+
+.subrequirement-directive-nolongerrequired {
+  color: #51abff;
+  font-weight: bold;
+  background: url("Images/icon-waived.png") no-repeat scroll 0 center transparent;
+  margin-left: .538em;
+  padding: 3px 0 1px 24px;
+}
+
+.requirement-directive-incomplete {
+  background-color: #ffeeed;
+  color: #000000;
+  padding: .6em .9em .6em 1.5em;
+  border-bottom: 1px solid #d42828;
+}
+
+.requirement-directive-incomplete > .requirement-directive-remaining {
+  color: #d42828;
+  font-weight: bold;
+}
+
+.requirement-directive-waived {
+  background-color: #eff7ff;
+  color: #000000;
+  padding: 0.6em 0.9em 0.6em 1.5em;
+  border-bottom: 1px solid #51abff;
+}
+
+.requirement-directive-waived > .requirement-directive-remaining {
+  color: #2874bb;
+  font-weight: bold;
+}
+
+.requirement-directive-planned,
+.subrequirement-directive-planned,
+.group-directive-planned {
+  color: #8a6a00;
+  font-weight: bold;
+}
+
+.subrequirement-directive-waived {
+  color: #51abff;
+  font-weight: bold;
+}
+
+.subrequirements {
+  list-style: upper-alpha inside none;
+  padding-left: 1.5em;
+}
+
+.subrequirements > li {
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+.subrequirements > li > :first-child {
+  display: inline;
+}
+
+.subrequirements > li > :first-child:after {
+  /* Add the margin that was lost w/ display: inline */
+  /* Firefox 10 displays this as block */
+  /* Safari 5.1.2 and Chrome 17.0.963.56 don't */
+  content: "";
+  display: block;
+  margin-bottom: .5em;
+}
+
+.subrequirements > li:last-child {
+  margin-bottom: 0;
+}
+
+.subrequirements > li > h3 {
+  padding: 5px 0 5px 10px;
+  font-weight: bold;
+  color: #000000;
+  background-color: #d5d5d5;
+  font-size: 12px;
+  border-bottom: 1px solid #999999;
+}
+
+.subrequirements div {
+  font-weight: normal;
+}
+
+.subrequirement-code {
+  display: inline;
+  font-weight: bold;
+  font-size: .875rem;
+  font-family: Open Sans,Helvetica,Arial,sans-serif;
+}
+
+.subrequirement-display-text {
+  padding: .4em 0;
+  white-space: pre-line;
+}
+
+.subrequirement-directive {
+  margin-bottom: .769em;
+  padding-left: 1em;
+  line-height: 1.5;
+}
+
+.subrequirement-gpa,
+.group-gpa {
+  padding: .333em 0;
+  color: #000000;
+}
+
+.subrequirement-gpa > span {
+  padding-right: .333em;
+}
+
+/* Remove subrequirement numbering in Other Courses not applied to this program */
+.other-courses > div > ul {
+  list-style: none;
+}
+
+/* Group Tables */
+.groups {
+  border-top: 1px solid #d5d5d5;
+  list-style: decimal inside none;
+  padding-top: .667em;
+}
+
+.groups-no-list-style {
+  list-style: none;
+}
+
+.group {
+  background-image: none;
+  border: none;
+  filter: none;
+  margin: 0 0 0.8em;
+  text-shadow: none;
+  padding-left: 1.5em;
+}
+
+.group > :first-child {
+  /* Make Firefox put the list marker inside */
+  /* https://bugzilla.mozilla.org/show_bug.cgi?id=36854 "if list-style-position is inside, bullet takes own line" */
+  display: inline;
+}
+
+.group > :first-child:after {
+  /* Add the margin that was lost w/ display: inline */
+  /* Firefox 10 displays this as block */
+  /* Safari 5.1.2 and Chrome 17.0.963.56 don't */
+  content: "";
+  display: block;
+  margin-bottom: .7em;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  /* Webkit Browsers Fix */
+  .group > :first-child {
+    display: block;
+  }
+}
+
+.group table th:nth-child(5),
+.group table td:nth-child(5) {
+  display: none;
+}
+
+@media only screen and (min-width: 48rem) {
+  .group table th:nth-child(5),
+  .group table td:nth-child(5) {
+    display: table-cell;
+  }
+}
+
+.group table th:nth-child(3),
+.group table td:nth-child(3),
+.group table th:nth-child(6),
+.group table td:nth-child(6) {
+  display: none;
+}
+
+@media only screen and (min-width: 26.25rem) {
+  .group table th:nth-child(3),
+  .group table td:nth-child(3),
+  .group table th:nth-child(6),
+  .group table td:nth-child(6) {
+    display: table-cell;
+  }
+}
+
+.group td:first-child {
+  border-right: 1px solid #bdbdbd;
+}
+
+.group img {
+  vertical-align: middle;
+  background: #999999;
+}
+
+.group-directive {
+  color: #000000;
+  line-height: 1.5;
+  padding: .433em 0;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  /* Webkit Browsers Fix */
+  .group-directive {
+    padding: 0;
+  }
+}
+
+.toggle-detail,
+.toggle-detail:hover {
+  color: #004480;
+}
+
+.group-directive-complete {
+  color: #00804d;
+  font-weight: bold;
+}
+
+.group-directive-incomplete,
+.requirement-directive-remaining {
+  color: #d42828;
+  font-weight: bold;
+}
+
+.group-repeat-override-notation,
+.group-gpa-only-notation {
+  color: #d42828;
+  padding-left: .361em;
+}
+
+.gpa-warning {
+  color: #d42828;
+}
+
+.inst-credits-warning {
+  color: #d42828;
+}
+
+.subrequirement-directive-complete .requirement-directive-remaining {
+  color: #00804d;
+  font-weight: bold;
+}
+
+.group-directive .group-directive-remaining {
+  color: #2874bb;
+  font-weight: bold;
+  background: url("Images/icon-waived.png") no-repeat scroll 0 center transparent;
+  margin-left: 0.538em;
+  padding: .25em 0 .083em 2em;
+}
+
+.group-directive-waived {
+  color: #2874bb;
+  font-weight: bold;
+}
+
+td.group-completed {
+  background-color: #eaf7f2;
+  color: #00804d;
+}
+
+td.group-inprogress {
+  background-color: #eaf7f2;
+  color: #00804d;
+}
+
+td.group-preregistered {
+  background-color: #f5f2e7;
+  color: #8a6a00;
+}
+
+td.group-planned {
+  background-color: #f5f2e7;
+  color: #8a6a00;
+}
+
+td.group-notstarted {
+  background-color: #ffeeed;
+  color: #d42828;
+}
+
+td.group-notneeded {
+  background-color: #eff7ff;
+  color: #2874bb;
+}
+
+td.group-withdrawn,
+td.group-dropped {
+  background-color: #ffeeed;
+  color: #d42828;
+}
+
+td.group-attempted {
+  background-color: #ffeeed;
+  color: #d42828;
+}
+
+.group-green span,
+.group-orange span,
+.group-blue span,
+.group-red span {
+  display: block;
+  padding-top: .385em;
+}
+
+.group-list > li:last-child {
+  padding-bottom: 0;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Academic Programs                  //////////  */
+/* ----------------------------------------------------------- */
+.section-content li.program {
+  border: none;
+}
+
+.section-content li.program:hover {
+  background-color: #d5d5d5;
+}
+
+.section-content li.program:last-child {
+  border-bottom: 1px solid #bdbdbd;
+}
+
+.section-content li.program a {
+  border-left: medium none;
+  color: #555555;
+  display: block;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  text-decoration: none;
+  background: none;
+  border-radius: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.section-content li.program a:hover {
+  color: #333333;
+}
+
+.program h3.accordionHeader, .program h3.ui-accordion-header {
+  margin: 0;
+  padding: 0;
+}
+
+.program h3.ui-accordion-header {
+  border: 1px solid #bdbdbd;
+  background-color: #e2e2e2;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.program h3.ui-accordion-header:hover {
+  background-color: #d5d5d5;
+  border-color: #999999;
+}
+
+.program h3.ui-state-active {
+  background-color: #bdbdbd;
+  border: 1px solid #767676;
+}
+
+.program h3.ui-state-active a {
+  color: #ffffff;
+}
+
+/* Nested Content */
+.program .ui-accordion-content {
+  padding: 11px 10px;
+  background: #ffffff;
+  border: 2px solid #767676;
+}
+
+/* ----------------------------------------------------------- */
+/* //////////   Home Page                          //////////  */
+/* ----------------------------------------------------------- */
+/* Header */
+@media all and (max-width: 480px) {
+  #home-greeting h2 {
+    margin-top: 1.75em;
+  }
+}
+
+/* At a Glance */
+@media all and (max-width: 480px) {
+  /* Programs Table */
+  #home-at-a-glance {
+    border-left: 1px solid #999999;
+    border-top: 0;
+    border-bottom: 0;
+    border-right: 0;
+    margin: 0;
+  }
+}
+
+#home-at-a-glance:hover,
+#home-calendar:hover {
+  cursor: pointer;
+}
+
+@media (min-width: 481px) and (max-width: 850px) {
+  #home-at-a-glance th:nth-of-type(1) {
+    width: 25%;
+  }
+  #home-at-a-glance .program-stats-wrapper td:nth-of-type(3) {
+    width: 40%;
+  }
+}
+
+@media all and (max-width: 480px) {
+  /* Programs Table */
+  #home-at-a-glance th:last-child,
+  #home-at-a-glance tbody td:last-child,
+  #home-calendar {
+    display: none;
+  }
+}
+
+#home-calendar .no-meeting-time {
+  border-top: 1px solid #999999;
+  border-left: none;
+  border-right: none;
+}
+
+#home-calendar .section-contents {
+  padding: 0;
+  border: none;
+}
+
+#home-at-a-glance table td:nth-of-type(1) {
+  width: 30%;
+}
+
+#home-at-a-glance table td:nth-of-type(2) {
+  width: 25%;
+}
+
+#home-calendar .schedule-unplanned-section-content a,
+#home-calendar .schedule-unplanned-registered-section-content a {
+  text-decoration: none;
+}
+
+.advisor-advising-notes-wrapper-override, .advising-notes-view-wrapper-override, .advising-notes-view-wrapper-override {
+  border: 0px solid;
+  background: #ffffff;
+  border-left: 0px solid;
+  float: none;
+}
+
+.advising-review-hide {
+  visibility: hidden;
+}
+
+.drag-over {
+  background-color: #00fc97;
+}
+
+.drop-rejected {
+  background-color: #ed4949;
+}
+
+@media only screen and (min-width: 62rem) {
+  #student-profile .esg-modal-dialog {
+    width: 85%;
+  }
+  #contribute-ret-info .esg-modal-dialog {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 75rem) {
+  #student-profile .esg-modal-dialog {
+    width: 85%;
+  }
+  #contribute-ret-info .esg-modal-dialog {
+    width: 85%;
+  }
+}
+
+@media (min-width: 48rem) and (max-width: 75rem) {
+  #student-profile .esg-modal-dialog {
+    height: 100%;
+    width: 100%;
+  }
+  #contribute-ret-info .esg-modal-dialog {
+    height: 100%;
+    width: 100%;
+  }
+  #student-profile .esg-modal-dialog__button {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+  #student-profile .esg-modal-dialog__body {
+    max-height: calc(103vh - 8.3em);
+  }
+  #student-profile .esg-table-body__row > td > div:first-child {
+    display: contents;
+  }
+}
+
+.profile-header {
+  display: table;
+}
+
+.hr_studentProfile {
+  margin-top: 0.8125rem;
+  margin-bottom: 1.625rem;
+}
+
+.showOnMobile {
+  display: none;
+}
+
+.alignQuickViewProfileName {
+  margin-left: 0px;
+  display: table-cell;
+}
+
+.float-right-in-mobile {
+  float: none;
+}
+
+.profileFullScreen {
+  z-index: 1000;
+}
+
+@media only screen and (max-width: 75rem) {
+  .card-wrapper .profileFullScreen {
+    position: fixed;
+  }
+  .profileFullScreen {
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    text-align: left;
+  }
+  .showOnMobile {
+    display: inline;
+  }
+  .FixButtontoBottom {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+  .float-right-in-mobile {
+    float: right;
+  }
+}
+
+.card-wrapper .hideOnMobile {
+  display: none;
+}
+
+.padding-profile-content {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.retention-alert-detailed-notes-compose-box {
+  width: 100%;
+  min-height: 7.8125rem;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  position: relative;
+  margin: 0rem;
+  padding-right: 0.0625rem;
+  top: 0rem;
+  left: 0rem;
+  resize: none;
+  max-height: 7.8125rem;
+}
+
+.course-placeholder-description {
+  word-break: break-word;
+}
+
+.course-placeholder-badge {
+  margin-left: .6em;
+}
+
+.word-break {
+  word-break: break-word;
+}
+
